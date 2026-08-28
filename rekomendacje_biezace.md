@@ -2,24 +2,30 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
-## Stan na: 2026-08-27
-- **POZIOM:** 0 (TŁO) — wstępnie, przed pierwszym pełnym skanem
-- **Trend 7 dni:** brak danych (wątek dopiero uruchomiony)
+## Stan na: 2026-08-28
+- **POZIOM: 1 — PODWYŻSZONA UWAGA**
+- **Trend 7 dni:** rosnący
+- Podstawa: `dziennik/2026-08-28.md`. Kluczowe: incydent rakietowy Kh-101 na terytorium PL (lipiec), powtarzające się naruszenia przestrzeni w sierpniu, **ostrzeżenie wywiadu USA o planowanej przez Rosję zbrojnej prowokacji w najbliższych miesiącach**, intensywne zakłócanie GNSS w regionie, sabotaż infrastruktury (FSB Centrum 16). Brak sygnałów przedinwazyjnych z wzorca 2022 (koncentracja ofensywna, „wojska nie wracają", ewakuacje ambasad, „wyjeżdżajcie w 48 h”).
 
-## Działania na teraz (niezależne od POZIOMU — fundament)
-1. Skompletować zestaw **P0** z `lista_wyposazenia.md` (tanie, krytyczne, szybkie).
-2. Zgrać komplet dokumentów: skany w chmurze + pendrive + wydruki w torbie.
-3. Woda i żywność na minimum **7 dni** dla całej rodziny + zwierząt.
-4. Pełny bak w aucie; sprawdzić datę przeglądu i stan opon (w tym zapas).
-5. Radio na baterie/korbkę + zapas baterii; naładowane power banki.
-6. Ustalić z rodziną: **kontakt spoza regionu** (osoba, przez którą wszyscy się meldują) i **punkt zbiórki**.
-7. Odpowiedzieć na kwestionariusz (w rozmowie) → odblokowuje sekcje planów.
+## Działania — POZIOM 1 (robić teraz, ten tydzień)
+1. **Skompletować P0** z `lista_wyposazenia.md` (łącznie <5 tys. zł z gotówką i drewnem).
+2. **Radio + baterie** — priorytet: region silnie zakłócany (GNSS/łączność). Do obu aut **mapy papierowe** z zaznaczonymi 3 trasami do Modrzewia.
+3. Komplet dokumentów ×3 (chmura + pendrive + wydruki).
+4. Recepty na **90-dniowy zapas leków** (mąż + żona) — umówić lekarza.
+5. **Drewno do kozy** 2–4 mp + przegląd komina przed sezonem.
+6. Gotówka rezerwowa 3–6 tys. zł, małe nominały, rozdzielona.
+7. Oba auta: **pełny bak jako stały nawyk od teraz**; sprawdzić przegląd i opony.
+8. Woda i żywność na **min. 14 dni** dla 3 osób (POZIOM 1 podnosi cel z 7 do 14 dni).
+9. **Rozmowy:** rodzice żony (lista pytań o Modrzewie w `plan_ewakuacja_modrzewie.md` pkt 1) + córki (wariant konwoju, punkt zbiórki, godzina graniczna).
+10. Ustalić „kontakt spoza regionu" (osoba-węzeł).
 
-## Po pierwszym skanie — do uzupełnienia
-- Potwierdzenie lub korekta POZIOMU.
-- Lista zdarzeń do obserwacji na kolejny dzień.
+## Czego NIE robić jeszcze (to POZIOM 2+)
+- Nie pakować toreb ewakuacyjnych na stałe przy drzwiach.
+- Nie wypłacać dużej gotówki ponad rezerwę.
+- Nie wyjeżdżać wrażliwych członków rodziny do Modrzewia.
+- Nie kupować w panice — realizować listę spokojnie, etapami.
 
-## Progi decyzyjne (skrót — pełne w planach)
-- **POZIOM 1** → zapasy 14 dni, gotowość Modrzewia, pre-pozycjonowanie.
-- **POZIOM 2** → torby przy drzwiach, kanistry pełne, wyjazd wrażliwych osób, definicja „ostatniego okna".
-- **POZIOM 3** → wykonać decyzję: ewakuacja albo schron. Bez zwłoki.
+## Progi decyzyjne (skrót — pełne w planach i w `analiza_2022_wzorzec.md`)
+- **POZIOM 2** → torby przy drzwiach, kanistry pełne, wyjazd wrażliwych osób, definicja „ostatniego okna", gotówka wypłacona.
+- **POZIOM 3** → wykonać decyzję: ewakuacja do Modrzewia albo schron w Piastowie. Bez zwłoki.
+- Pojedynczy jednoznaczny wskaźnik taktyczny (cyber-wiper na skalę, false-flag, „wyjeżdżajcie w 48 h", ewakuacja ambasady RU, zamknięta cywilna przestrzeń powietrzna, stan wojenny) → od razu POZIOM 3.
