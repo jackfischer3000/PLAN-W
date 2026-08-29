@@ -2,10 +2,10 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
-## Stan na: 2026-08-28
-- **POZIOM: 1 — PODWYŻSZONA UWAGA**
-- **Trend 7 dni:** rosnący
-- Podstawa: `dziennik/2026-08-28.md`. Kluczowe: incydent rakietowy Kh-101 na terytorium PL (lipiec), powtarzające się naruszenia przestrzeni w sierpniu, **ostrzeżenie wywiadu USA o planowanej przez Rosję zbrojnej prowokacji w najbliższych miesiącach**, intensywne zakłócanie GNSS w regionie, sabotaż infrastruktury (FSB Centrum 16). Brak sygnałów przedinwazyjnych z wzorca 2022 (koncentracja ofensywna, „wojska nie wracają", ewakuacje ambasad, „wyjeżdżajcie w 48 h”).
+## Stan na: 2026-08-29
+- **POZIOM: 1 — PODWYŻSZONA UWAGA** (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (korekta z „rosnący" — brak nowego przyspieszenia w ostatnich 24–72 h, ale baza z 28.08 nadal aktualna)
+- Podstawa: `dziennik/2026-08-29.md`. Kluczowe tło: incydent rakietowy Kh-101 na terytorium PL (lipiec), powtarzające się naruszenia przestrzeni w sierpniu, ostrzeżenie wywiadu USA o planowanej przez Rosję zbrojnej prowokacji w najbliższych miesiącach, intensywne zakłócanie GNSS w regionie, sabotaż infrastruktury (FSB Centrum 16), stopnie alarmowe CHARLIE/BRAVO/BRAVO-CRP obowiązujące do 31.08.2026 (decyzja o przedłużeniu — kluczowy punkt obserwacji w najbliższych dniach). Nowe 29.08: rosyjski test ICBM (rutynowy, niesynchronizowany z kryzysem), wzmocniona współpraca Szwecja–Finlandia ws. dronów. Brak sygnałów przedinwazyjnych z wzorca 2022 (koncentracja ofensywna, „wojska nie wracają", ewakuacje ambasad, „wyjeżdżajcie w 48 h”).
 
 ## Działania — POZIOM 1 (robić teraz, ten tydzień)
 1. **Skompletować P0** z `lista_wyposazenia.md` (łącznie <5 tys. zł z gotówką i drewnem).
