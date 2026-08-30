@@ -1,0 +1,52 @@
+name: Powiadomienie Telegram
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'dziennik/**'
+      - 'rekomendacje_biezace.md'
+  workflow_dispatch: {}
+
+jobs:
+  telegram:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Zbuduj i wyslij wiadomosc
+        env:
+          TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${TG_TOKEN:-}" ] || [ -z "${TG_CHAT:-}" ]; then
+            echo "Brak sekretow TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID - pomijam."
+            exit 0
+          fi
+
+          SUBJECT="$(git log -1 --pretty=%s)"
+          STAN="$(awk '/^## Stan na:/{f=1} f && /^## / && !/^## Stan na:/{exit} f' rekomendacje_biezace.md | head -c 1400)"
+
+          PREFIX="🛰️"
+          if printf '%s\n%s\n' "$SUBJECT" "$STAN" | grep -qiE 'ZMIANA|UWAGA|POZIOM[^A-Za-z0-9]*[0-9][^0-9]*(->|→)'; then
+            PREFIX="🔴"
+          fi
+
+          MSG="$PREFIX $SUBJECT
+
+$STAN
+
+Pelny wpis: dziennik/ w repo PLAN-W."
+
+          RESP="$(curl -sS --max-time 30 \
+            "https://api.telegram.org/bot${TG_TOKEN}/sendMessage" \
+            --data-urlencode "chat_id=${TG_CHAT}" \
+            --data-urlencode "text=${MSG}" \
+            -d disable_web_page_preview=true)"
+
+          echo "$RESP" | grep -q '"ok":true' || { echo "Telegram API blad: $RESP"; exit 1; }
+          echo "Wyslano."
