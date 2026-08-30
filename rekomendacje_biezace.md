@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-08-30 rano
+- **POZIOM: 1 — PODWYŻSZONA UWAGA** (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-08-30.md` (skan poranny). Kontynuacja obrazu z 29.08: incydent rakietowy Kh-101 na terytorium PL (lipiec), stopnie alarmowe BRAVO/BRAVO-CRP/CHARLIE przedłużone do 30.11.2026, intensywne zakłócanie GNSS w regionie, ostrzeżenie wywiadu USA o planowanej przez Rosję zbrojnej prowokacji. **Nowe dziś (kontekst, nie nowe zdarzenie):** litewskie ostrzeżenie (sprzed ~3 tyg.) o możliwej rosyjskiej prowokacji „pod fałszywą flagą" z użyciem dronów przeciw infrastrukturze bałtyckiej — bez konkretnej daty; rozszerzona rosyjska kampania uderzeń na Kijów (28–29.08, wojna RU-UA, nie bezpośrednio PL). Brak nowych zdarzeń w kategoriach B, C, E, F, G. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-08-29 wieczór
 - **POZIOM: 1 — PODWYŻSZONA UWAGA** (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian względem skanu porannego)
