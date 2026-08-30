@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-08-30 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-08-30.md` (aktualizacja wieczorna 20:10). Brak potwierdzonych nowych zdarzeń w oknie 12–24 h w żadnej kategorii A–H — obraz sytuacji to w istocie kontynuacja skanu porannego (stopnie alarmowe BRAVO/BRAVO-CRP/CHARLIE do 30.11.2026, incydent Kh-101 z lipca jako tło, litewskie ostrzeżenie o możliwej prowokacji „pod fałszywą flagą" sprzed ~3 tyg. bez rozwinięcia, ćwiczenia mobilizacyjne RU w Kaliningradzie z lipca do dalszego śledzenia). Travel advisory USA dla PL nadal Level 1. Brak sygnałów przedinwazyjnych z wzorca 2022. Zalecana weryfikacja ISW/PAP/RCB bezpośrednio przy skanie porannym 31.08 (dzisiejszy fetch understandingwar.org zablokowany przez proxy).
+
 ## Stan na: 2026-08-30 rano
 - **POZIOM: 1 — PODWYŻSZONA UWAGA** (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
