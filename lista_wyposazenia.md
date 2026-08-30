@@ -14,18 +14,18 @@ Legenda kolumny „Mam?": ✅ / ➖ (częściowo) / ❌
 | Tabletki do uzdatniania wody | 1 op. (100+ tab.) | ❌ | dwutlenek chloru / chlor |
 | Filtr do wody (butelka/słomka + większy) | 1–2 | ❌ | np. filtr grawitacyjny na później |
 | Apteczka rozszerzona | 1 | ➖ | + opatrunek uciskowy, staza, rękawice |
-| Leki na receptę — zapas | 60–90 dni/os | ❌ | ⟨kto, co — do uzupełnienia⟩ |
+| Leki na receptę — zapas | 60–90 dni/os | ❌ | mąż + żona; wyliczenie i realizacja po stronie użytkownika |
 | Leki OTC | komplet | ➖ | ból/gorączka, biegunka, elektrolity, alergia |
-| Jodek potasu (KI) | dawki dla całej rodziny | ❌ | użyć tylko na komunikat PAA |
-| Latarki czołowe + ręczne | 1/os + zapas | ➖ | |
-| Baterie AA/AAA | duży zapas | ❌ | do latarek, radia, PMR |
+| Jodek potasu (KI) | dawki dla całej rodziny | ✅ | MAM; użyć tylko na komunikat PAA |
+| Latarki czołowe + ręczne | 1/os + zapas | ✅ | MAM |
+| Baterie AA/AAA | duży zapas | ❌ | do latarek, radia, PMR — sprawdzić zapas |
 | Power bank 20 000+ mAh | 1/os | ➖ | |
-| Radio FM/DAB+ na baterie + korbka/solar | 1 | ❌ | odbiór komunikatów RCB |
-| Gotówka małe nominały | ~1 mies. wydatków | ❌ | rozdzielona na osoby/miejsca |
-| Dokumenty — 3 kopie | komplet | ❌ | chmura + pendrive + wydruki |
+| Radio FM/DAB+ na baterie + korbka/solar | 1 | ✅ | MAM |
+| Gotówka małe nominały | ~1 mies. wydatków | ❌ | DO ZROBIENIA — rozdzielona na osoby/miejsca |
+| Dokumenty — 3 kopie | komplet | ❌ | DO ZROBIENIA — cyfryzacja + chmura + pendrive + wydruki |
 | Pełny bak + przegląd auta | — | ❔ | sprawdzić datę przeglądu, opony |
 | Gaśnica + koc gaśniczy | 1+1 dom, 1 auto | ➖ | |
-| Czujnik czadu (CO) | 1/kondygnację | ❌ | |
+| Czujnik czadu (CO) | 1/kondygnację | ✅ | MAM |
 | Mapy papierowe | Polska + zachodniopomorskie | ❌ | zaznaczyć 3 trasy do Modrzewia |
 | Folia budowlana + taśma + nożyczki | 1 rolka + 4 taśmy | ❌ | uszczelnienie pokoju |
 | Worki na śmieci 60–120 l | 2 rolki | ➖ | także do sanitariatu awaryjnego |

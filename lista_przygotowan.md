@@ -8,24 +8,26 @@ Legenda: `[ ]` do zrobienia · `[~]` w toku · `[x]` zrobione.
 ## TEN TYDZIEŃ (fundament — łącznie <5 tys. zł)
 
 ### Zakupy P0
+- [x] Jodek potasu — MAM
+- [x] Latarki czołowe — MAM
+- [x] Radio na baterie + korbka/solar — MAM
+- [x] Czujniki czadu (CO) — MAM
+- [ ] Zapas baterii AA/AAA — sprawdzić, uzupełnić (do latarek/radia/PMR)
 - [ ] Woda: butelkowana + 3–4 kanistry spożywcze (docelowo ~170 l dla 3 os.)
 - [ ] Uzdatnianie wody: tabletki (dwutlenek chloru) + filtr butelkowy/słomkowy
 - [ ] Apteczka rozszerzona + opatrunek uciskowy + staza + rękawice nitrylowe
 - [ ] Leki OTC: przeciwbólowe/gorączka, przeciwbiegunkowe, elektrolity, przeciwalergiczne
-- [ ] Jodek potasu — dawki dla 3 os. (użyć tylko na komunikat PAA)
-- [ ] Latarki czołowe ×3 + zapas baterii AA/AAA
-- [ ] Radio na baterie + korbka/solar
-- [ ] Czujniki czadu (CO) — przy kozie i w sypialni
 - [ ] Folia budowlana + taśma + nożyczki (uszczelnienie pokoju)
 - [ ] Mapy papierowe: Polska + zachodniopomorskie/wielkopolskie/lubuskie
 - [ ] Drobne do grab bagów: gwizdki ×3, folie NRC, multitool, sznurek, worki 60–120 l
 
 ### Zadania
-- [ ] Gotówka rezerwowa 3–6 tys. zł, małe nominały, rozdzielona (dom + auta) — trzymać, nie wydawać
-- [ ] Leki na receptę: umówić się z lekarzem na recepty na zapas 90 dni (mąż + żona) — wyliczenie po stronie użytkownika
-- [ ] Zamówić drewno do kozy: 2–4 mp sezonowanego + rozpałka; sprawdzić siekierę i piłę
+- [x] Drewno do kozy — MAM (zweryfikować ilość vs cel 2–4 mp; osobno: czyszczenie komina)
+- [ ] **Gotówka rezerwowa** 3–6 tys. zł, małe nominały, rozdzielona (dom + auta) — trzymać, nie wydawać → DO ZROBIENIA
+- [ ] **Leki na receptę** — recepty na zapas 90 dni (mąż + żona), wyliczenie po stronie użytkownika → DO ZROBIENIA
 - [ ] Zlokalizować w domu: główny zawór wody, główny zawór gazu, główny bezpiecznik — pokazać żonie
 - [ ] Sprawdzić daty: przegląd techniczny obu aut, stan opon (w tym zapasowe), poziom paliwa
+- [ ] **Kanister paliwa** ×2 (20 l, atest) + stabilizator → DO ZROBIENIA
 
 ## W CIĄGU MIESIĄCA
 
