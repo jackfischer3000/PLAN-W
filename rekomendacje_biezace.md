@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-08-31 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-08-31.md` (aktualizacja wieczorna 20:04). Jedyne nowe potwierdzone zdarzenie w oknie ~12 h: przechwycenie rosyjskiego samolotu rozpoznawczego Ił-20 nad Bałtykiem (30 km od Łeby) przez polskie myśliwce — MON potwierdza brak naruszenia przestrzeni powietrznej, ocenia jako kolejny test odstraszania, zgodny z powtarzalnym wzorcem z lipca–sierpnia (filtr szumu). MSWiA przedłużyło strefę buforową na granicy z Białorusią o kolejne 90 dni (do 29.11.2026, ósme przedłużenie) — rutynowe, wspierane spadkiem prób przekroczenia o ~98% r/r — sygnał stabilizujący. Brak nowych zdarzeń w kategoriach B, E, F, G, H. Travel advisory USA dla PL nadal Level 1. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-08-31 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian; retoryka ostrzegawcza nieco intensywniejsza, bez nowych zdarzeń operacyjnych)
