@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-08-31 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian; retoryka ostrzegawcza nieco intensywniejsza, bez nowych zdarzeń operacyjnych)
+- Podstawa: `dziennik/2026-08-31.md` (skan poranny). Brak nowych zdarzeń operacyjnych w oknie 12–24 h w żadnej kategorii A–H. Nowo uzupełniony kontekst (wcześniej nieujęty w wątku, wydarzenia z 25–29.08): niezapowiedziana wizyta dyrektora CIA J. Ratcliffe'a w Moskwie (25.08) z przekazem ostrzegawczym ws. Estonii/Litwy/Łotwy — urzędnicy bałtyccy sami studzą alarm, brak zmiany ich oceny zagrożenia; wypowiedź premiera Tuska (28.08, Campus Polska Przyszłości) o „krytycznych 7–8 miesiącach" i szacunkach ~600 tys. żołnierzy planowanej mobilizacji RU — ocena polityczna, nie nowa decyzja operacyjna. Stopnie alarmowe BRAVO/BRAVO-CRP/CHARLIE nadal w mocy do 30.11.2026. Travel advisory USA dla PL nadal Level 1. Brak sygnałów przedinwazyjnych z wzorca 2022 (koncentracja ofensywna, „wojska nie wracają", ewakuacje ambasad, „wyjeżdżajcie w 48 h").
+
 ## Stan na: 2026-08-30 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
