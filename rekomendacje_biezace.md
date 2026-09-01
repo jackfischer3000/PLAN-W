@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-01 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian; to samo zastrzeżenie co rano: rosnące ryzyko w kategorii D — seria potwierdzonych aktów dywersji na polskiej infrastrukturze obronnej)
+- Podstawa: `dziennik/2026-09-01.md` (aktualizacja wieczorna 20:06). Jedyny rozwój w oknie ~12 h: wiceszef MSWiA Czesław Mroczek potwierdził w śledztwie ws. pożaru w **WB Electronics** (Skarżysko-Kamienna), że „wiele wskazuje" na ślad rosyjski, i ujawnił brak fizycznej ochrony obiektu (tylko monitoring zewnętrzny) — to nadal robocza hipoteza śledztwa, nie formalna atrybucja, i pojedyncza kategoria (D), więc nie zmienia POZIOMU. Brak nowych zdarzeń w kategoriach A, B, C, E, F, G, H w oknie 12 h. Travel advisory USA dla PL nadal Level 1. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-01 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian; zastrzeżenie: rosnące ryzyko w kategorii D — seria potwierdzonych aktów dywersji na polskiej infrastrukturze obronnej)
