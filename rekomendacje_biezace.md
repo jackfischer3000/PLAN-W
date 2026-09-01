@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-01 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian; zastrzeżenie: rosnące ryzyko w kategorii D — seria potwierdzonych aktów dywersji na polskiej infrastrukturze obronnej)
+- Podstawa: `dziennik/2026-09-01.md` (skan poranny). Najważniejsze nowe zdarzenie: w nocy 30/31.08 pożar w fabryce dronów **WB Electronics** w Skarżysku-Kamiennej (największy prywatny producent zbrojeniowy w PL, dostawca dla WP i Ukrainy) — monitoring zarejestrował osobę w kominiarce przed pożarem, straty min. 15 mln zł, bez ofiar. ABW i SKW prowadzą czynności, prokuratura wszczęła śledztwo ws. przestępstwa o charakterze terrorystycznym z możliwym udziałem obcego wywiadu (atrybucja niepotwierdzona). Pojedyncza kategoria (D) — nie spełnia progu zmiany POZIOMU (brak ≥2 niezależnych kategorii/trendu, brak wyjątkowego wskaźnika taktycznego z reguły 4), ale wymaga ścisłego śledzenia w oknie 7 dni. Poza tym: brak nowych zdarzeń w kategoriach A, B, E, F, G; strefa buforowa na granicy z Białorusią przedłużona rutynowo do 29.11.2026 (spadek prób przekroczenia ~98% r/r); stopnie alarmowe BRAVO/BRAVO-CRP/CHARLIE bez zmian do 30.11.2026. Travel advisory USA dla PL nadal Level 1. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-08-31 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
