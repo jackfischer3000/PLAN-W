@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-02 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-02.md` (skan poranny). Brak nowych zdarzeń operacyjnych w oknie ~12–24 h w żadnej kategorii A–H. Śledztwo ws. pożaru w **WB Electronics** (Skarżysko-Kamienna) bez rozwinięcia od wieczora 01.09 — nadal robocza hipoteza „śladu rosyjskiego", brak zatrzymań i formalnej atrybucji; pojedyncza kategoria (D), nie zmienia POZIOMU. Odfiltrowano recykling starych doniesień granicznych (2021–2024) błędnie sugerujących świeże incydenty na granicy z Białorusią. Nowy element do obserwacji w perspektywie 2–4 tygodni: wybory do Dumy Państwowej (18–20.09.2026) i oczekiwana po nich fala mobilizacji w Rosji. Stopnie alarmowe i strefa buforowa bez zmian. Travel advisory USA dla PL nadal Level 1. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-01 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian; to samo zastrzeżenie co rano: rosnące ryzyko w kategorii D — seria potwierdzonych aktów dywersji na polskiej infrastrukturze obronnej)
