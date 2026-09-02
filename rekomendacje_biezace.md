@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-02 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-02.md` (aktualizacja wieczorna 20:05). Brak nowych zdarzeń operacyjnych podnoszących ryzyko w oknie ~12 h. Wyjaśniono pozorny sygnał: informacja o ograniczeniu przestrzeni powietrznej „od 10 września" dotyczy nadchodzącej decyzji o przedłużeniu już istniejącej, znanej strefy EP R131 (w mocy do 9.09.2026), nie nowego naruszenia — termin decyzji o przedłużeniu w najbliższym tygodniu, do obserwacji. Śledztwo ws. **WB Electronics** bez rozwinięcia — nadal pojedyncza kategoria (D), robocza hipoteza „śladu rosyjskiego", brak zatrzymań/formalnej atrybucji (odfiltrowano mylący wynik o niepowiązanym zatrzymaniu ABW z sierpnia). Putin zdementował doniesienia o nowej fali mobilizacji w Rosji — zaprzeczenie Kremla, zerowa wartość informacyjna wg reguły 2. Stopnie alarmowe i strefa buforowa bez zmian. Travel advisory USA dla PL zweryfikowane bezpośrednio — nadal Level 1. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-02 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
