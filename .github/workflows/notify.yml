@@ -20,20 +20,21 @@ jobs:
           TG_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TG_CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
-          set -euo pipefail
+          set -eu
           if [ -z "${TG_TOKEN:-}" ] || [ -z "${TG_CHAT:-}" ]; then
             echo "Brak sekretow - pomijam."
             exit 0
           fi
           SUBJECT="$(git log -1 --pretty=%s)"
-          STAN="$(awk '/^## Stan na:/{f=1} f && /^## / && !/^## Stan na:/{exit} f' rekomendacje_biezace.md | head -c 1400)"
+          STAN="$(awk '/^## Stan na:/{f=1} f && /^## / && !/^## Stan na:/{exit} f' rekomendacje_biezace.md)"
+          STAN="${STAN:0:1400}"
           PREFIX="[skan]"
-          if printf '%s %s' "$SUBJECT" "$STAN" | grep -qiE 'ZMIANA|UWAGA'; then
-            PREFIX="[!!! ZMIANA]"
-          fi
+          case "$SUBJECT $STAN" in
+            *ZMIANA*|*"-> POZIOM"*|*"→ POZIOM"*) PREFIX="[!!! ZMIANA POZIOMU]" ;;
+          esac
           MSG="$(printf '%s %s\n\n%s\n\nPelny wpis: katalog dziennik/ w repo PLAN-W.' "$PREFIX" "$SUBJECT" "$STAN")"
-          RESP="$(curl -sS --max-time 30 "https://api.telegram.org/bot${TG_TOKEN}/sendMessage" --data-urlencode "chat_id=${TG_CHAT}" --data-urlencode "text=${MSG}" -d disable_web_page_preview=true)"
+          RESP="$(curl -sS --max-time 30 "https://api.telegram.org/bot${TG_TOKEN}/sendMessage" --data-urlencode "chat_id=${TG_CHAT}" --data-urlencode "text=${MSG}" -d disable_web_page_preview=true || true)"
           case "$RESP" in
             *'"ok":true'*) echo "Wyslano." ;;
-            *) echo "Blad: $RESP"; exit 1 ;;
+            *) echo "Blad Telegram API: $RESP"; exit 1 ;;
           esac
