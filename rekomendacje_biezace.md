@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-03 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian; pogłębione zastrzeżenie w kategorii D)
+- Podstawa: `dziennik/2026-09-03.md` (skan poranny). Premier Tusk (2.09 wieczorem) jednoznacznie nazwał pożar w **WB Electronics** „aktem sabotażu, bez wątpliwości" i powiązał go retorycznie z równoległym, formalnym oskarżeniem Rosji przez rząd Niemiec ws. ataku dronem na lotnisko w Lipsku (1.09) — to wzmocnienie tonu politycznego, ale nadal **bez formalnej atrybucji śledczej** (brak zatrzymań), nadal pojedyncza kategoria (D). Fałszywy alarm bombowy w Warszawie (Żupnicza, 2.09) rozstrzygnięty — pakunki to rozładowane baterie, brak zagrożenia. Zweryfikowano i odrzucono mylące wyniki wyszukiwania sugerujące nowe naruszenie przestrzeni powietrznej w nocy 2/3.09 — to recykling starych zdarzeń (Tarnawa-Kolonia 30.07.2026 i masowy nalot dronów z września 2025), brak potwierdzonego nowego naruszenia. Stopnie alarmowe, strefa buforowa i strefa EP R131 (do 9.09.2026) bez zmian. Travel advisory USA dla PL nadal Level 1. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-02 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
