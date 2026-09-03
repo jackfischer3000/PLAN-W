@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-03 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-03.md` (aktualizacja wieczorna 20:05). Rozstrzygnięty wątek strefy EP R131 — zastąpiona rutynowo strefą **EP R134** (10.09–9.12.2026, ten sam zasięg), nie jest to eskalacja. Nowe dziś: **ambasador Rosji Gieorgij Michno wezwany do MSZ** (solidarność z Niemcami ws. Lipska + w związku z pożarem WB Electronics) — realny, ale rutynowy protest dyplomatyczny (ten sam instrument użyty już w lipcu po Kh-101), nieanalogiczny do wskaźników z wzorca 2022 (ewakuacja ambasady, wydalenia, zerwanie stosunków). Doprecyzowano też, że premier Tusk **zdementował** tezę o sabotażu ws. pożaru hali w Lublinie (29/30.08) — „nie ma dowodów tego typu"; teza TVP Info o „służbach ze wschodu" pozostaje niepotwierdzona, pojedyncze źródło. Brak nowych zdarzeń w kategoriach A, B, C, F, G, H. Odrzucono artefakt wyszukiwania sugerujący nowe naruszenie przestrzeni powietrznej w nocy 9/10.09 — to zdarzenie jeszcze się nie wydarzyło (błędna synchronizacja dat przez wyszukiwarkę z rocznicą września 2025). Travel advisory USA dla PL nadal Level 1. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-03 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian; pogłębione zastrzeżenie w kategorii D)
