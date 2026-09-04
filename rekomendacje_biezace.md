@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-04 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-04.md` (aktualizacja wieczorna 20:15). Brak nowych zdarzeń operacyjnych podnoszących ryzyko w oknie ~12 h. Jedyne doprecyzowanie: kolejne (drugie w tym tygodniu, dziesiąte w tym roku) przechwycenie rosyjskiego samolotu rozpoznawczego Ił-20M nad Bałtykiem (40 km od Ustki, 3.09) — bez naruszenia polskiej przestrzeni powietrznej, rutynowy powtarzalny wzorzec, ale rosnąca częstotliwość warta dalszej obserwacji. Śledztwo WB Electronics bez rozwinięcia — nadal brak formalnej atrybucji i zatrzymań. Wątek dyplomatyczny (wezwanie ambasadora RU, retorsje Rosja–Niemcy ws. Goethe-Institut) bez nowych kroków ponad protest/retorsje — zaprzeczenia ambasadora RU bez wartości informacyjnej wg reguły 2. Stopnie alarmowe, strefa buforowa BY i strefa EP R134 (start 10.09) bez zmian. Travel advisory USA dla PL — pośrednio nadal Level 1 (bezpośredni fetch travel.state.gov zablokowany, do potwierdzenia przy najbliższej okazji). Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-04 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
