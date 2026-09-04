@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-04 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-04.md` (skan poranny). Brak nowych zdarzeń operacyjnych podnoszących ryzyko w oknie 24 h. Kontynuacja wątku dyplomatycznego: ambasador Rosji po wezwaniu do MSZ (3.09) zaprzeczył zarzutom („bezpodstawne, absurdalne") — zaprzeczenie bez wartości informacyjnej wg reguły 2. Nowy element regionalny (dot. Rosja–Niemcy, nie bezpośrednio Polski): Ławrow ogłosił zamknięcie placówek Goethe-Institut w Rosji jako retorsję za zamknięcie przez Niemcy konsulatu w Bonn i Domu Rosyjskiego w Berlinie (w związku z atakiem dronem na lotnisko w Lipsku) — wzmacnia regionalny wzorzec napięcia dyplomatycznego, ale to wciąż tylko kategoria E, nie spełnia progu „≥2 niezależnych kategorii". Śledztwo WB Electronics bez rozwinięcia — nadal brak formalnej atrybucji. Strefa EP R134 (10.09–9.12.2026) potwierdzona jako rutynowa kontynuacja. Stopnie alarmowe i strefa buforowa BY bez zmian. Travel advisory USA dla PL nadal Level 1. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-03 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
