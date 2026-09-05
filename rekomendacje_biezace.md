@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-05 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-05.md` (skan poranny). Brak nowych zdarzeń operacyjnych podnoszących ryzyko w oknie 24 h w żadnej kategorii A–H. Jedyny nowy element: raport OSW „Resilient Baltic" (4.09) ostrzega przed rosnącym rosyjskim szpiegostwem/sabotażem wobec portów bałtyckich (w tym polskich) — analiza trendu, nie nowy incydent kinetyczny. Doprecyzowanie wypowiedzi ministra Sikorskiego: wydalenie ambasadora Rosji „nie można wykluczyć" przy kolejnym akcie sabotażu — warunkowe ostrzeżenie polityczne, nie decyzja. Śledztwo WB Electronics bez rozwinięcia — nadal brak formalnej atrybucji i zatrzymań. Wątek Rosja–Niemcy (Goethe-Institut) bez nowych kroków ponad retorsje kulturalne. Stopnie alarmowe, strefa buforowa BY i strefa EP R134 (start za 5 dni) bez zmian. Travel advisory USA dla PL nadal Level 1. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-04 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
