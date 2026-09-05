@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-05 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-05.md` (aktualizacja wieczorna 20:10). Skan miał głównie charakter weryfikacyjny — brak nowych zdarzeń operacyjnych podnoszących ryzyko w oknie ~12 h w żadnej kategorii A–H. Ważna korekta metodologiczna: pozorny sygnał o nowym, poważnym naruszeniu przestrzeni powietrznej „5 września 2026" (jeden nagłówek tvp.info) po krzyżowej weryfikacji wielu niezależnych źródeł (Reuters, NBC, CBS, Fox, Al Jazeera) okazał się artefaktem wyszukiwania dot. zdarzenia z 9/10.09.2025 (rocznica, ten sam wzorzec co w poprzednich wpisach) — odrzucone, brak potwierdzenia z pierwotnego źródła (MON/RCB/PAP). Skorygowano też błędną syntezę wyszukiwarki, która niesłusznie przypisała WB Electronics atrybucję (2 obywateli Ukrainy, ucieczka na Białoruś) należącą do innej, zamkniętej sprawy — sabotażu kolejowego Warszawa–Lublin z XI 2025. WB Electronics nadal bez formalnej atrybucji śledczej. Ambasador RU nadal nie wydalony. Travel advisory USA nadal Level 1. Brak nowych ruchów wojsk w Kaliningradzie/na Białorusi. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-05 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
