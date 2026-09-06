@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-06 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-06.md` (aktualizacja wieczorna 20:05). Jedno nowe, w pełni wyjaśnione zdarzenie w oknie ~12 h: ok. południa 6.09 Dowództwo Operacyjne RSZ zgłosiło podejrzenie naruszenia przestrzeni powietrznej przez obiekt znad Białorusi, wysłano śmigłowiec, lotnisko Rzeszów-Jasionka krótko wstrzymało operacje — po weryfikacji oficjalnie potwierdzono, że to klucz ptaków, **brak naruszenia**, potwierdzone szeroko (media polskie + niezależne źródła zagraniczne). Odrzucono kolejny artefakt wyszukiwania sugerujący nowe ćwiczenia Zapad 12–16.09.2026 — to w istocie Zapad-2025 (rocznica), brak zapowiedzi nowej edycji w 2026 r. CERT Polska bez nowego komunikatu o cyberataku. Ambasador RU nadal tylko wezwany, nie wydalony. Travel advisory USA nadal Level 1. Brak nowych ruchów wojsk w Kaliningradzie/na Białorusi. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-06 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
