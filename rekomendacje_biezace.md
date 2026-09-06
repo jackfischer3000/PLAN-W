@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-06 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-06.md` (skan poranny). Jedyne nowe zdarzenie: nocny (5/6.09, ok. 4:00) alert RCB dla woj. lubelskiego i podkarpackiego w związku z masowym rosyjskim atakiem powietrznym na Ukrainę — polskie/sojusznicze lotnictwo operowało prewencyjnie w polskiej przestrzeni, **brak naruszenia** polskiej przestrzeni powietrznej, wzorzec identyczny jak przy poprzednich dużych uderzeniach RU blisko granicy — odrzucone jako nowy wskaźnik eskalacyjny zgodnie z filtrem szumu. ISW (raport za 5.09) potwierdza brak przesunięć frontu, delegację USA w Moskwie ws. czasowego rozejmu na uderzenia dalekiego zasięgu (3 dni) — Putin odrzucił szerszy rozejm frontowy; brak wzmianek o Polsce/NATO. WB Electronics nadal bez formalnej atrybucji śledczej. Ambasador RU nadal nie wydalony. Wątek Rosja–Niemcy (Goethe-Institut) bez rozwinięcia — Putin zaprzeczył oskarżeniom Berlina (zerowa wartość informacyjna wg reguły 2). Travel advisory USA nadal Level 1. Brak nowych ruchów wojsk w Kaliningradzie/na Białorusi. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-05 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
