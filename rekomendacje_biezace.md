@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-07 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-07.md` (skan poranny). Skan głównie weryfikacyjny — brak nowego zdarzenia operacyjnego podnoszącego ryzyko od ostatniej aktualizacji (6.09 wieczór). Dodatkowe, niezależne źródła w pełni potwierdziły już opisany epizod z 6.09 (stado ptaków nad wschodnią Polską od strony Białorusi, brak naruszenia przestrzeni powietrznej). Odrzucono kolejny artefakt wyszukiwania: rzekomy nowy komunikat Łukaszenki o rozmieszczeniu „połowy armii" na granicy z Polską i Litwą — to recykling materiału z marca 2026, nie zdarzenie z ostatnich 24 h. WB Electronics nadal bez formalnej atrybucji śledczej. Ambasador RU nadal tylko wezwany, nie wydalony. Travel advisory USA nadal Level 1. CERT Polska bez nowego komunikatu o cyberataku. Strefa EP R134 startuje za 3 dni (10.09) — rutynowo. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-06 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
