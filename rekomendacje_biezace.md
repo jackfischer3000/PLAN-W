@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-07 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-07.md` (aktualizacja wieczorna 20:05). Brak nowego zdarzenia operacyjnego podnoszącego ryzyko w oknie ~12 h w żadnej kategorii A–H. Jedyny nowy element: od dziś zwiększony ruch kolumn wojskowych na drogach woj. lubuskiego/pomorskiego/zachodniopomorskiego w ramach zapowiedzianych z wyprzedzeniem ćwiczeń „Czarny Obrońca '26" (14–24.09.2026) — rutynowe, krajowe ćwiczenie, bez związku z eskalacją, ale nakłada się na region trasy ewakuacyjnej do Modrzewia (do uwzględnienia przy planowaniu trasy w tym okresie). WB Electronics nadal bez formalnej atrybucji śledczej. Ambasador RU nadal tylko wezwany, nie wydalony. Travel advisory USA nadal Level 1. CERT Polska bez nowego komunikatu o cyberataku. Brak nowych ruchów wojsk RU/BY w Kaliningradzie/na Białorusi. Strefa EP R134 startuje za 3 dni (10.09) — rutynowo. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-07 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
