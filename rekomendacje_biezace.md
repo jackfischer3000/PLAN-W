@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-08 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-08.md` (skan poranny). Jedyne nowe zdarzenie: w nocy z 7 na 8.09 kolejny masowy rosyjski atak dronowo-rakietowy na Kijów (6 rannych) — polskie lotnictwo operowało prewencyjnie od ok. 3:00, RCB wysłało i po ok. 2 h odwołało alert dla woj. lubelskiego i podkarpackiego, **bez naruszenia** polskiej przestrzeni powietrznej — wzorzec identyczny jak przy poprzednich uderzeniach RU blisko granicy, zgodnie z filtrem szumu nie stanowi nowego wskaźnika eskalacyjnego. Odrzucono kolejny artefakt wyszukiwania sugerujący „bezprecedensowe naruszenia" dronami — to rocznicowe materiały z 9/10.09.2025. WB Electronics nadal bez formalnej atrybucji śledczej. Ambasador RU nadal tylko wezwany, nie wydalony. Travel advisory USA nadal Level 1. CERT Polska bez nowego komunikatu o cyberataku. Brak nowych ruchów wojsk RU/BY w Kaliningradzie/na Białorusi, brak Art. 4 NATO. Strefa buforowa BY przedłużona rutynowo do 29.11.2026 (głosowanie Sejmu 4.09). Strefa EP R134 startuje za 2 dni (10.09) — rutynowo. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-07 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
