@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-08 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-08.md` (aktualizacja wieczorna 20:05). Brak jakiegokolwiek nowego zdarzenia operacyjnego podnoszącego ryzyko w oknie ~12 h w żadnej kategorii A–H — pełna kontynuacja obrazu porannego (dwa nocne alerty RCB dla woj. lubelskiego/podkarpackiego przy ataku RU na Kijów, oba odwołane, bez naruszenia polskiej przestrzeni powietrznej). Jedyny nowy element: odrzucony po weryfikacji artefakt wyszukiwania sugerujący nową koncentrację wojsk RU przy granicy — w rzeczywistości to zapowiedziane z wyprzedzeniem, rutynowe ćwiczenia dowódczo-sztabowe OUBZ „Niezniszczalne Braterstwo-2026"/„Bariera-2026" na Białorusi (połowa października), pomieszane w wynikach wyszukiwania z materiałami o Zapad-2025; do obserwacji w październiku wg reguły „wojska nie wracają po ćwiczeniach". WB Electronics nadal bez formalnej atrybucji śledczej. Ambasador RU nadal tylko wezwany, nie wydalony. Travel advisory USA nadal Level 1. CERT Polska bez nowego komunikatu o cyberataku. Strefa EP R134 startuje za 1 dzień (10.09) — rutynowo. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-08 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
