@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-09 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-09.md` (aktualizacja wieczorna 20:15). Brak jakiegokolwiek nowego zdarzenia operacyjnego podnoszącego ryzyko w oknie ~12 h w żadnej kategorii A–H — pełna kontynuacja obrazu porannego. **Ważna uwaga metodologiczna:** dziś przypada dokładnie roczna rocznica rzeczywistego wtargnięcia ok. 19–20 rosyjskich dronów w polską przestrzeń powietrzną (noc 9/10.09.2025, zdarzenie uruchamiające Art. 4 NATO i Eastern Sentry) — wyszukiwarka wielokrotnie zwracała ten i powiązane epizody (Zapad-2025, zatrzymanie polskiego karmelity na Białorusi, mobilizacja w Kaliningradzie z 2022 r.) sformatowane tak, że mogły sprawiać wrażenie zdarzeń z dziś; po weryfikacji krzyżowej wszystkie odrzucone jako recykling. **Brak potwierdzenia jakiegokolwiek nowego naruszenia polskiej przestrzeni powietrznej w nocy z 9 na 10.09.2026.** Nowy drobny element: RCB/Warszawa zapowiada rutynowe testy syren 10–18.09 (10:00–16:00), wyraźnie oznaczone jako nie-zagrożenie. WB Electronics — doprecyzowanie strat (min. 15 mln zł), nadal brak formalnej atrybucji. Ambasador RU nadal tylko wezwany. Travel advisory USA nadal Level 1. Strefa EP R134 startuje jutro (10.09) — rutynowo. Do 12.09 (rocznica ogłoszenia Eastern Sentry) zachować podwyższoną czujność na artefakty rocznicowe w wynikach wyszukiwania. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-09 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
