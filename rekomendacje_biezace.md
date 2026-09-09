@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-09 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-09.md` (skan poranny). Jedyne istotne nowe zdarzenie: w nocy z 8 na 9.09 Rosja wznowiła zmasowany atak rakietowo-dronowy na Kijów (2 zabici, 10 rannych, 175 celów zestrzelonych) — pierwszy po zakończeniu uzgodnionej 3-dniowej przerwy w nalotach na stolice, związanej z wizytą amerykańskich wysłanników Witkoffa i Kushnera w Kijowie. Polskie lotnictwo operowało prewencyjnie, RCB wysłało i odwołało dwa alerty dla woj. lubelskiego/podkarpackiego, **bez naruszenia** polskiej przestrzeni powietrznej — wzorzec identyczny jak przy poprzednich uderzeniach RU blisko granicy, zgodnie z filtrem szumu nie stanowi nowego wskaźnika eskalacyjnego. Odrzucono artefakt wyszukiwania sugerujący ćwiczenie OUBZ „Bojowe Braterstwo" na Białorusi 1–7.09 — brak potwierdzenia, pomieszanie z materiałem z 2023 r.; jedyne potwierdzone ćwiczenia OUBZ to „Niezniszczalne Braterstwo-2026"/„Bariera-2026" w połowie października. WB Electronics nadal bez formalnej atrybucji śledczej. Ambasador RU nadal tylko wezwany, nie wydalony. Travel advisory USA nadal Level 1. CERT Polska bez nowego komunikatu o cyberataku. Złoty/GPW pod umiarkowaną presją (inflacja 3,4%, sezonowa słabość września) — bez paniki, bez interwencji NBP. Strefa EP R134 startuje za 1 dzień (10.09) — rutynowo. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-08 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
