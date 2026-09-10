@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-10 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-10.md` (skan poranny). Jedyne istotne nowe zdarzenie: w nocy z 9 na 10.09 Rosja przeprowadziła kolejny, tym razem większy (5 zabitych, 21 rannych, wobec 2/10 poprzednio) zmasowany atak rakietowo-dronowy na Kijów i Zaporoże, kontynuując wznowione ataki po zakończeniu uzgodnionej 3-dniowej przerwy (wizyta Witkoffa/Kushnera). Polskie lotnictwo operowało prewencyjnie, RCB wysłało i odwołało alert dla woj. lubelskiego/podkarpackiego (potwierdzony m.in. o 7:07) — **bez naruszenia** polskiej przestrzeni powietrznej, wzorzec identyczny jak przy poprzednich uderzeniach RU blisko granicy, zgodnie z filtrem szumu nie stanowi nowego wskaźnika eskalacyjnego. Strefa ograniczona **EP R134** weszła dziś w życie (10.09.2026 00:00 UTC – 9.12.2026), zastępując EP R131 — rutynowe wdrożenie wcześniej zapowiedzianego ograniczenia. Rozpoczęły się też zapowiedziane wcześniej rutynowe testy syren w Warszawie (10–18.09). WB Electronics nadal bez formalnej atrybucji śledczej. Ambasador RU nadal tylko wezwany, nie wydalony. Travel advisory USA nadal Level 1. CERT Polska bez nowego komunikatu o cyberataku. Brak nowych ruchów wojsk RU/BY w Kaliningradzie/na Białorusi, brak Art. 4 NATO. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-09 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
