@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-10 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-10.md` (aktualizacja wieczorna 20:15). Brak nowego zdarzenia o charakterze eskalacyjnym w oknie ~12 h w żadnej kategorii A–H. Jedyny rozwój: poranny alert RCB dla woj. lubelskiego/podkarpackiego (nocny atak RU na Kijów/Zaporoże) odwołany po godz. 15:00, bez naruszenia polskiej przestrzeni powietrznej — domknięcie wątku znanego z rana, nie nowy incydent. Strefa EP R134 potwierdzona jako weszła w życie rutynowo. Brak nowego raportu ISW ponad ten z 9.09. WB Electronics, ambasador Michno, granica z Białorusią, CERT Polska, travel advisory USA (Level 1) — bez zmian. Jeden element do ostrożnej weryfikacji: niepotwierdzona wzmianka wyszukiwarki o rzekomym „wielokrotnym naruszeniu polskiej przestrzeni powietrznej" i AWACS rano 10.09, oceniona jako prawdopodobny artefakt/konflacja z rocznicą 9/10.09.2025 (WebFetch do pierwotnych źródeł zablokowany) — nie wliczona do oceny POZIOMU, do obowiązkowej weryfikacji przy skanie porannym 11.09 bezpośrednio w komunikatach DORSZ/PAP. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-10 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
