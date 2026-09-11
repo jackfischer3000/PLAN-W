@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-11 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-11.md` (skan poranny). **Najistotniejsze zdarzenie:** premier Tusk ujawnił 10.09, że w nocy z 9 na 10.09, dzięki współpracy polskich i ukraińskich służb, udaremniono bezpośrednie zagrożenie wobec jednego z przejść granicznych polsko-ukraińskich — w bezpośrednim kontekście śmiertelnego ataku rosyjskich dronów dzień wcześniej na przejście graniczne ukraińsko-mołdawskie (2 zabici). To pierwszy w tym wątku przypadek konkretnego, przyznanego przez władze zagrożenia wobec polskiej infrastruktury granicznej — jakościowo nowy sygnał w kategorii D, ale **udaremniony, nie dokonany**, więc nie spełnia wyjątku reguły 4 ani progu „≥2 niezależne kategorie". Premier zapowiedział też traktowanie przejść granicznych z Ukrainą jako infrastruktury krytycznej oraz wspomniał o briefingu dyrektora CIA ws. możliwych wydarzeń w nadchodzących miesiącach — do obserwacji priorytetowej. Ostatecznie potwierdzono (zapowiedziana weryfikacja z 10.09 wieczór), że sugestia o „wielokrotnym naruszeniu polskiej przestrzeni powietrznej przez drony i AWACS" 10.09 to artefakt rocznicowy (zdarzenie z 9/10.09.2025) — wątek zamknięty, brak nowego naruszenia. Odrzucono też dwa kolejne artefakty wyszukiwania („atak 40 pocisków, największy od 2022" i „9 zabitych w Kijowie") — to relacje z lipca 2026, nie z ostatnich dni. WB Electronics, ambasador Michno, granica z Białorusią, CERT Polska, travel advisory USA (Level 1) — bez zmian. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-10 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
