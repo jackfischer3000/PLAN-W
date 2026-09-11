@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-11 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-11.md` (aktualizacja wieczorna 20:15). Skan głównie weryfikacyjny — brak nowego zdarzenia eskalacyjnego w oknie ~12 h w żadnej kategorii A–H ponad to, co już opisano rano. Wątek udaremnionego zagrożenia wobec przejścia granicznego PL–UA (ujawniony przez Tuska 10.09) bez nowych szczegółów — nadal brak informacji, którego przejścia dotyczyło, i brak doniesień o kolejnej, dokonanej próbie. Jedyny nowy, drobny element: MON ostrzegło dziś przed fałszywymi/częściowo generowanymi przez AI kartami mobilizacyjnymi krążącymi w internecie — pojedynczy komunikat dezinformacyjny (kategoria D/H), zbyt mały, by zmieniać ocenę, do obserwacji czy się nasili przed wyborami do Dumy (18–20.09). WB Electronics — bez nowego rozwoju, nadal brak zatrzymań/formalnej atrybucji do Rosji. Granica z Białorusią, CERT Polska, travel advisory USA (Level 1), strefy EP R134 i buforowa BY — bez zmian. Odrzucony artefakt/szum: spekulacyjne nagłówki o rzekomych polskich planach wobec Kaliningradu. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-11 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
