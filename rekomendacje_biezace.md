@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-12 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-12.md` (aktualizacja wieczorna 20:05). Jedyne nowe zdarzenie w oknie ~12 h: ok. 15:01 Dowództwo Operacyjne RSZ podniosło gotowość obrony powietrznej i RCB wysłało alert dla woj. lubelskiego/podkarpackiego w związku z rosyjskim atakiem dronowym na zachodnią Ukrainę — potwierdzone wielosourcowo, **bez naruszenia** polskiej przestrzeni powietrznej, wzorzec identyczny jak przy ~10 poprzednich podobnych epizodach w tym miesiącu, nie stanowi nowego wskaźnika. Odrzucony istotny artefakt wyszukiwania: sugestie o „bezprecedensowym naruszeniu" i posiedzeniu Rady Bezpieczeństwa ONZ „12.09.2026" — ponownie materiały z rocznicy 9/10.09.2025. Do obserwacji (nowy element): Białoruś kontynuuje od końca sierpnia niezapowiedzianą, kompleksową kontrolę gotowości bojowej (jednostki w pełnej gotowości, rezerwiści, ćwiczenia polowe) — na razie kontrola bez określonego terminu zakończenia, nie uruchamia reguły „wojska nie wracają po ćwiczeniach", ale wymaga śledzenia. WB Electronics, ambasador Michno, wątek przejścia granicznego PL–UA, travel advisory USA (Level 1), GNSS jamming na Bałtyku (kontynuacja trendu) — bez zmian. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-12 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
