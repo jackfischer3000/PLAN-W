@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-12 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-12.md` (skan poranny). Skan głównie weryfikacyjny — brak nowego zdarzenia eskalacyjnego w oknie ~12–24 h w żadnej kategorii A–H ponad to, co opisano we wpisie z 11.09 wieczór. ISW (raport za 11.09): 162 drony RU na Ukrainę w nocy, brak przesunięć frontu, brak wzmianek o Polsce/NATO. Wątek udaremnionego zagrożenia wobec przejścia granicznego PL–UA (9/10.09) — nadal bez nowych szczegółów i bez kolejnej, dokonanej próby. WB Electronics, ambasador RU, travel advisory USA (Level 1), strefa EP R134, stopnie alarmowe — bez zmian. Zakłócanie GNSS na Bałtyku — kontynuacja znanego trendu (do 63% dni z zakłóceniami wg NIT), nie nowy skok. Odrzucony istotny artefakt wyszukiwania: sugestie o zamknięciu granicy z Białorusią „11–12.09" w związku z ćwiczeniami Zapad — po weryfikacji to materiały z września **2025** r., nie 2026. Do obserwacji priorytetowej: wybory do Dumy (18–20.09) i oczekiwana fala mobilizacji w Rosji po nich; ćwiczenia „Czarny Obrońca-26" (14–24.09) w regionie trasy ewakuacyjnej. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-11 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
