@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-13 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-13.md` (skan poranny). Jedyne nowe zdarzenie: nocny (12/13.09, ok. 4:19–4:35) alert RCB dla części woj. lubelskiego i podkarpackiego w związku z rosyjskim atakiem dronowym na zachodnią Ukrainę — polskie/sojusznicze lotnictwo operowało prewencyjnie, **bez naruszenia** polskiej przestrzeni powietrznej, wzorzec identyczny jak przy licznych poprzednich podobnych epizodach we wrześniu, nie stanowi nowego wskaźnika eskalacyjnego. Poza tym skan głównie weryfikacyjny — brak nowego zdarzenia w żadnej innej kategorii A–H ponad stan z wieczora 12.09. Ćwiczenia „Czarny Obrońca '26" startują jutro (14–24.09, lubuskie/pomorskie/zachodniopomorskie) — możliwe utrudnienia drogowe w regionie trasy ewakuacyjnej do Modrzewia. GNSS jamming z Kaliningradu — potwierdzona dalsza rozbudowa infrastruktury spoofingowej (36 anten wg danych litewskich, zasięg ~450 km), kontynuacja znanego trendu. WB Electronics, ambasador Michno, wątek przejścia granicznego PL–UA, travel advisory USA (Level 1) — bez zmian. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-12 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
