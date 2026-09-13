@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-13 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
+- Podstawa: `dziennik/2026-09-13.md` (aktualizacja wieczorna 20:05). Jeden nowy, umiarkowanie istotny epizod w znanym wzorcu: dziś w ciągu dnia Rosja przeprowadziła jeden z większych w tym wątku ataków na Ukrainę — wg Zełenskiego ok. 500 dronów, wg Reuters 9 zabitych. Dowództwo Operacyjne RSZ ponownie uruchomiło polskie/sojusznicze lotnictwo, RCB wysłało alert dla części woj. lubelskiego i podkarpackiego (odwołany po 17:00) — **bez naruszenia** polskiej przestrzeni powietrznej, wzorzec identyczny jak przy licznych poprzednich epizodach, nie stanowi nowego wskaźnika eskalacyjnego, choć rosnąca skala ataków RU na Ukrainę warta dalszego śledzenia. W tym samym ataku trafiono zakład polskiej firmy Cersanit w obwodzie żytomierskim **na Ukrainie** (pożar ugaszony, brak ofiar) — atak na polskie aktywa gospodarcze poza granicami PL, nie na polską infrastrukturę, do obserwacji, nie zmienia POZIOMU. Poza tym skan głównie weryfikacyjny — brak nowego zdarzenia w żadnej innej kategorii A–H. Ćwiczenia „Czarny Obrońca '26" potwierdzone jako startujące jutro (14–24.09). Białoruś: kontrola gotowości bojowej trwa nadal bez nowego etapu. WB Electronics, ambasador Michno, wątek przejścia granicznego PL–UA, travel advisory USA (Level 1) — bez zmian. Brak sygnałów przedinwazyjnych z wzorca 2022.
+
 ## Stan na: 2026-09-13 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** stabilny, na podwyższonym poziomie (bez zmian)
