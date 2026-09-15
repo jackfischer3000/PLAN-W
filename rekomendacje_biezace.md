@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-15 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **rosnący** (bez zmian względem wpisów z 14.09)
+- Podstawa: `dziennik/2026-09-15.md` (skan poranny). Skan głównie weryfikacyjny/domykający wątki z 13–14.09 — brak nowego zdarzenia jakościowo istotnego w żadnej kategorii A–H. Nocny (14/15.09) rosyjski atak dronowy na Ukrainę — polskie myśliwce operowały prewencyjnie ~2h, RCB wysłało i odwołało alert dla woj. **lubelskiego i podkarpackiego** (nie „lubuskiego" — zweryfikowano krzyżowo, odrzucono mylący wynik wyszukiwania), **bez naruszenia** polskiej przestrzeni powietrznej — schemat znany z kilkunastu poprzednich epizodów, nie nowy wskaźnik. Nowe: minister Sikorski zaproponował NATO agresywne ćwiczenia przy Kaliningradzie, by zmusić Rosję do przegrupowania wojsk z Ukrainy — inicjatywa polska/NATO, nie sygnał zagrożenia, bez wpływu na POZIOM. Doprecyzowano wątek z 14.09 o rozbudowie kolejowej infrastruktury wojskowej na Białorusi: dotyczy obwodu homelskiego (~40 km od granicy z Ukrainą), a więc kierunku **ukraińskiego, nie polskiego** — osłabia wagę tego elementu jako wskaźnika zagrożenia dla PL. Białoruskie ćwiczenie sztabowo-dowódcze 14–16.09 zamyka znany od 25.08 cykl szkolenia rezerwistów — kontynuacja, nie nowy etap. Litwa rozpoczęła zapowiedziane wcześniej ćwiczenia (12 gmin, 14–18.09; ~2500 żołnierzy z udziałem Polski, 2–20.09) — rutynowe. Niepotwierdzone: Trump ogłosił rosyjsko-ukraińskie „porozumienie" o wstrzymaniu ataków na cele energetyczne — Ukraina tego nie potwierdza (tylko propozycja warunkowa), zgodnie z regułą wątku traktowane jako niepotwierdzone, bez wpływu na ocenę. Ambasador Michno, travel advisory USA (Level 1), CERT Polska, PAA — bez zmian. **Zmiana POZIOMU: NIE.** Okno 48–72h wyznaczone po zdarzeniu Dorohusk–Jagodzin (13.09) zamyka się w ciągu doby — jeśli do jutrzejszego skanu nie pojawi się potwierdzenie kontynuacji (kolejne precyzyjne uderzenie blisko granicy PL/NATO), trend prawdopodobnie wróci do „stabilny, na podwyższonym poziomie".
+
 ## Stan na: 2026-09-14 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **rosnący** (bez zmian względem porannego wpisu)
