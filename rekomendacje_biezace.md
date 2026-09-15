@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-15 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **rosnący** (bez zmian względem porannego wpisu, ale bliski powrotu do „stabilny" — patrz niżej)
+- Podstawa: `dziennik/2026-09-15.md` (aktualizacja wieczorna 20:05). Skan w całości weryfikacyjny/domykający — brak nowego zdarzenia jakościowo istotnego w żadnej kategorii A–H ponad stan poranny. Wojsko Polskie potwierdziło ok. 9:00 oficjalnie brak naruszenia polskiej przestrzeni powietrznej w nocnym epizodzie 14/15.09 (domknięcie wątku). ISW (raport 14.09): 102 drony RU na Ukrainę, brak przesunięć frontu, bez wzmianek o PL/NATO. Premier Tusk po dzisiejszej odprawie RCB ponowił zapowiedź „intensywniejszego trybu" RCB/państwa — retoryczne powtórzenie zapowiedzi z 13.09, **nadal bez nowej, konkretnej decyzji formalnej** (stopnie alarmowe bez zmian, z zarządzenia z 25.08 do 30.11.2026). Doprecyzowanie ws. „moratorium energetycznego" Trump–Rosja–Ukraina: rzecznik Kremla Pieskow nie potwierdził wprost gotowości Rosji, ograniczył się do ogólnika — wzmacnia ocenę „niepotwierdzone" z wpisu porannego, zgodnie z regułą wątku (deklaracje agresora bez niezależnego potwierdzenia = ignorować). Brak nowych doniesień o incydencie na granicy z Białorusią ani przy przejściach Dorohusk/Hrebenne w tym oknie. CERT Polska, PAA, ambasador Michno, travel advisory USA (nadal Level 1) — bez zmian. **Zmiana POZIOMU: NIE.** Okno 48–72h po uderzeniu Dorohusk–Jagodzin (13.09 rano) jeszcze się nie domknęło (zamyka się między jutrzejszym porankiem a wieczorem 16.09) — brak w tym skanie potwierdzenia kolejnego podobnego uderzenia blisko granicy PL/NATO, więc trend pozostaje „rosnący" jeszcze jeden dzień, ale zgodnie z regułą 8 powinien wrócić do „stabilny, na podwyższonym poziomie", jeśli potwierdzenie nie pojawi się do jutrzejszego skanu porannego.
+
 ## Stan na: 2026-09-15 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **rosnący** (bez zmian względem wpisów z 14.09)
