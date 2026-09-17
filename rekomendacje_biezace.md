@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-17 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **rosnący** (bez zmian względem wpisu z 16.09 wieczór)
+- Podstawa: `dziennik/2026-09-17.md` (skan poranny). Skan w przeważającej mierze weryfikacyjny/domykający — brak nowego zdarzenia jakościowo istotnego w oknie ~12–24 h. **Trzeci z rzędu** rutynowy nocny alert RCB dla lubelskiego/podkarpackiego (noc 16/17.09, atak RU na zachodnią Ukrainę) — bez naruszenia polskiej przestrzeni powietrznej, wzorzec znany. Białoruskie ćwiczenie Hoża/Brześć/Rożany kontynuowane bez zmian — **kończy się jutro, 18.09** (priorytetowy test reguły 6: czy jednostki wrócą do baz). Seria incydentów bałtyckich z 15.09 (dron nad Litwą, flary wobec Danii) — **brak potwierdzenia powtórzenia** w kolejnym kraju NATO w tym oknie; okno 48–72h domyka się między dziś wieczorem a jutrem, stąd trend utrzymany na „rosnący" jeszcze jeden dzień, zgodnie z dotychczasową praktyką wątku (analogicznie do zdarzenia z 13.09) — jeśli brak potwierdzenia kontynuacji do jutrzejszego skanu, ocena powinna wrócić do „stabilny, na podwyższonym poziomie" (reguła 8). Nowy element pośredni: Zełenski ujawnił (wywiad CBS) dwukrotne zagrożenie dronowe dla swojego samolotu nad Mołdawią w ostatnich tygodniach — dotyczy Mołdawii, nie Polski, niepotwierdzone niezależnie jako celowe działanie Rosji, odnotowane jako tło regionalne. Moratorium energetyczne Rosja–Ukraina — nadal nieoperacyjne (Rosja formalnie się nie zgodziła, ataki trwają, ok. 200 dronów w ostatniej salwie). Wybory do Dumy (18–20.09) startują pojutrze — oczekiwana po nich fala mobilizacji w Rosji. Travel advisory USA (Level 1), CERT Polska, PAA, ambasador Michno, GNSS jamming — bez zmian. **Żadne pojedyncze zdarzenie nie spełnia wyjątku reguły 4 ani progu „≥2 niezależne kategorie" dla POZIOM 2.** **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-16 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **rosnący** (zmiana z „stabilny, na podwyższonym poziomie" ustalonego rano — patrz uzasadnienie niżej; **POZIOM bez zmian**)
