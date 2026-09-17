@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-17 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **rosnący** (bez zmian względem wpisu porannego)
+- Podstawa: `dziennik/2026-09-17.md` (aktualizacja wieczorna 20:05). Skan w większości doprecyzowujący wątki z rana — brak nowego zdarzenia jakościowo istotnego. Doprecyzowanie ataku na Dorohusk–Jagodzin (drony Geran-5 trafiły stację paliw i ciężarówki po stronie ukraińskiej, „bardzo masywna eksplozja" wg premiera Tuska) — **bez naruszenia polskiej przestrzeni powietrznej, bez ofiar**; wiceminister Tomczyk ujawnił pre-autoryzowany rozkaz zestrzelenia obiektu w razie przekroczenia granicy — ujawnienie istniejącej procedury, nie nowa decyzja eskalacyjna. Polska ogłosiła rozbudowę elektronicznego systemu ochrony granicy z Ukrainą (100+ km) — proporcjonalna kontynuacja zapowiedzi z 15.09. Białoruskie ćwiczenie Hoża/Brześć/Rożany bez zmian, kończy się jutro (18.09) — kluczowy test reguły 6 nadal przed nami. Okno 48–72h dla incydentów bałtyckich z 15.09 (dron nad Litwą, flary wobec Danii) **zamyka się dziś w nocy** (~00:20, granica 17/18.09) — w tym skanie wciąż formalnie otwarte, brak potwierdzenia ani zaprzeczenia kontynuacji; decyzja o rewizji trendu odłożona do jutrzejszego skanu porannego zgodnie z regułą 8. Dodatkowy element kontekstowy: garnizon rosyjski w Kaliningradzie skurczył się o ok. 80% personelu lądowego od 2022 r. (przerzuty na front UA) — raczej de-eskalacyjny, osłabia scenariusz szybkiej koncentracji ofensywnej z tego kierunku. Wątek Mołdawii (zagrożenie dla samolotu Zełenskiego) **zdementowany przez stronę mołdawską** — sporny, tło regionalne, bez wpływu na POZIOM. Moratorium energetyczne nadal nieoperacyjne (obie strony kontynuują ataki). Wybory do Dumy startują jutro (18–20.09) — spekulacje o mobilizacji w październiku niepotwierdzone. Travel advisory USA (Level 1), CERT Polska, PAA, ambasador Michno, GNSS jamming — bez zmian. **Żadne pojedyncze zdarzenie nie spełnia wyjątku reguły 4 ani progu „≥2 niezależne kategorie" dla POZIOM 2.** **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-17 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **rosnący** (bez zmian względem wpisu z 16.09 wieczór)
