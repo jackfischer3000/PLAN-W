@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-18 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **zmieniony na „stabilny, na podwyższonym poziomie"** (z „rosnący")
+- Podstawa: `dziennik/2026-09-18.md` (skan poranny). Okno 48–72h dla incydentów bałtyckich z 15.09 (dron nad Litwą, flary wobec Danii) zamknęło się w nocy z 17 na 18.09 bez potwierdzenia powtórzenia w kolejnym kraju NATO — zgodnie z regułą 8 trend wraca do „stabilny, na podwyższonym poziomie". Kolejny (rutynowy) alert RCB dla lubelskiego/podkarpackiego w związku z atakiem dronowym RU na zachodnią Ukrainę — bez naruszenia polskiej przestrzeni powietrznej, znany wzorzec. **Priorytet: test reguły 6 jeszcze nierozstrzygnięty** — białoruskie ćwiczenie Hoża/Brześć/Rożany formalnie kończy się dziś (18.09), brak jeszcze informacji, czy jednostki pancerne/zmechanizowane wrócą do baz (rozstrzygnięcie oczekiwane 18–19.09; brak powrotu = automatyczny PRÓG II). Nowe, konsultacyjne: prezydent Nawrocki zwołał na dziś naradę z MON (Kosiniak-Kamysz) i szefem Sztabu Generalnego (gen. Kukuła) ws. bieżącej sytuacji bezpieczeństwa — BBN przygotuje rekomendacje po naradzie, na razie brak nowej decyzji formalnej. Start wyborów do Dumy Państwowej dziś (18–20.09) — oczekiwana po nich fala mobilizacji w Rosji (raczej październik), na razie niepotwierdzona. Moratorium energetyczne nadal nieoperacyjne. Travel advisory USA (Level 1), CERT Polska, PAA, ambasador Michno, GNSS jamming — bez zmian. Odrzucony artefakt: doniesienia o rannym żołnierzu SG na granicy z Białorusią — to relacje z 2024 r., recykling. **Żadne pojedyncze zdarzenie nie spełnia wyjątku reguły 4 ani progu „≥2 niezależne kategorie" dla POZIOM 2.** **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-17 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **rosnący** (bez zmian względem wpisu porannego)
