@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-19 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian względem wpisu z 18.09 wieczór)
+- Podstawa: `dziennik/2026-09-19.md` (skan poranny). **Priorytetowy test reguły 6 nadal nierozstrzygnięty, ale doprecyzowany metodologicznie:** białoruskie ćwiczenie Hoża/Brześć/Rożany zakończyło się 18.09; „zgrupowanie Grodno" składało się z jednostki lokalnej (6. Brygada Zmechanizowana, na stałe w Grodnie) oraz jednostek przerzuconych spoza regionu (m.in. 103. Brygada z Witebska, na rozkaz Łukaszenki) — właściwym testem jest powrót TYCH DRUGICH do baz macierzystych, nie zniknięcie wojsk z Grodna. Obserwowany przejazd ok. 40 pojazdów przez Grodno w nocy 18.09 jest niejednoznaczny (może być lokalna jednostka wracająca do koszar w tym samym mieście). Brak niezależnego potwierdzenia w żadną stronę — rozstrzygnięcie oczekiwane w najbliższych dniach. Rekomendacje BBN po naradzie prezydenckiej z 18.09 — nadal nieopublikowane w konkretnej formie. Wybory do Dumy trwają (dzień 2/3, koniec 20.09) — bez wyników. Odrzucone trzy artefakty rocznicowe (dokładna roczna rocznica 19.09.2025): naruszenie przestrzeni Estonii przez MiG-31/wniosek o Art. 4, „19 dronów nad Polską", wycofanie wojsk RU z Białorusi po Zapad-2025 — wszystkie zweryfikowane jako zdarzenia z zeszłego roku, nie z dziś. Brak potwierdzenia nowego incydentu w oknie ~12h od wieczornej aktualizacji 18.09 (zastrzeżenie: wczesna pora skanu, do potwierdzenia przy kolejnym). Travel advisory USA (Level 1), CERT Polska, PAA, ambasador Michno, GNSS jamming, kursy walut — bez zmian/bez paniki. Nowy element H: narastające „zmęczenie alertami RCB" wśród mieszkańców przygranicza — trend społeczny, nie wskaźnik zagrożenia. **Żadne pojedyncze zdarzenie nie spełnia wyjątku reguły 4 ani progu „≥2 niezależne kategorie" dla POZIOM 2.** **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-18 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian względem wpisu porannego)
