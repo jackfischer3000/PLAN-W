@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-19 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian względem wpisu porannego)
+- Podstawa: `dziennik/2026-09-19.md` (aktualizacja wieczorna 20:09). Domknięto lukę informacyjną z rana: w nocy z 18 na 19.09 kolejny zmasowany rosyjski atak dronowy na Ukrainę wywołał znany już wzorcowo alert RCB dla lubelskiego/podkarpackiego oraz czasowe zamknięcie lotnisk Lublin/Rzeszów-Jasionka — **bez naruszenia polskiej przestrzeni powietrznej**, w pełni zgodny z wzorcem ostatnich tygodni. Nowy, nieeskalacyjny element: MSWiA przeprowadziło dziś (11:00–14:00) zapowiedziane wcześniej ćwiczenia obrony cywilnej „ALARM 2026" (trening reagowania na alarmy) dla mieszkańców Lubelszczyzny i Podkarpacia — planowe, prewencyjne, bez związku z konkretnym nowym zagrożeniem. **Priorytetowy test reguły 6 nadal nierozstrzygnięty:** brak jakiegokolwiek nowego, niezależnego potwierdzenia w żadną stronę co do powrotu jednostek przerzuconych spoza obwodu grodzieńsko-brzeskiego (103. Brygada z Witebska i inne) do baz macierzystych. Trzeci dzień wyborów do Dumy w toku (kończą się jutro, 20.09) — wstępne, częściowe wyniki (Jedna Rosja ~48%, KPRF ~20%) bez niespodzianek; obawy o falę mobilizacji po wyborach nadal tylko prognozą (HUR), niepotwierdzoną decyzją rosyjską. Rekomendacje BBN po naradzie prezydenckiej z 18.09 — nadal niepublikowane w konkretnej formie. Brak nowego wniosku o Art. 4/5 NATO, brak nowego komunikatu CERT Polska, brak nowego incydentu na granicy z Białorusią ponad rutynowe dane MSWiA, brak nowego sygnału jądrowego/PAA, brak nowego incydentu bałtycko-kaliningradzkiego. Kursy NBP niedostępne (sobota, brak publikacji); ostatnie dane (18.09) stabilne, bez paniki. Travel advisory USA (Level 1), ambasador Michno (nadal tylko wezwany) — bez zmian. **Żadne pojedyncze zdarzenie nie spełnia wyjątku reguły 4 ani progu „≥2 niezależne kategorie" dla POZIOM 2.** **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-19 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian względem wpisu z 18.09 wieczór)
