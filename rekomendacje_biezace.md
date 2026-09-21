@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-21 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian)
+- Podstawa: `dziennik/2026-09-21.md` (aktualizacja wieczorna 20:15). Brak zdarzenia jakościowo nowego wobec Polski/NATO w ostatnich ~12h. Najważniejszy rozwój doby: **domknięcie wątku wyborczego w Rosji** — CKW potwierdziła ostateczne wyniki wyborów do Dumy (zakończone 20.09 wieczór): Jedna Rosja 57,83% (355 mandatów), KPRF 13,95%, LDPR 8,77%, Nowi Ludzie 7,97%, Sprawiedliwa Rosja 4,99% — zgodnie z oczekiwaniami, rozstrzyga rozbieżność sygnalizowaną rano, bez wpływu na POZIOM. Kontynuacja wymiany uderzeń Rosja–Ukraina (dziś: rosyjskie drony na Zaporoże) — w znanym wzorcu, bez nowego elementu wobec terytorium PL (brak nowego alertu RCB/zamknięcia lotnisk ponad epizod z nocy 20/21.09 odnotowany rano). **Priorytetowy test reguły 6 (powrót jednostek białoruskich spoza regionu — 103. Brygada z Witebska i in. — do baz macierzystych) nadal nierozstrzygnięty — szósty dzień z rzędu; w tym skanie dodatkowo ograniczony brakiem bezpośredniego dostępu do iSANS (kluczowe źródło), do odnotowania jako ograniczenie metodologiczne.** Kursy NBP stabilne (EUR 4,3545, USD 3,7931) — brak sygnałów paniki. Zamknięcie przejść granicznych z Białorusią zweryfikowane jako decyzja z 9–12.09 (nie nowa) — odrzucone jako artefakt. Ćwiczenia „Czarny Obrońca '26" kontynuowane planowo (do 24.09). Wybory regionalne w Meklemburgii-Pomorzu Przednim (Niemcy, zwycięstwo AfD) — tło niemieckie, bez związku z kategoriami A–H. Brak nowego wniosku o Art. 4/5 NATO, brak nowego komunikatu CERT Polska, brak nowego incydentu na granicy z Białorusią, brak nowego sygnału jądrowego/PAA. Travel advisory USA (Level 1), ambasador Michno (nadal tylko wezwany) — bez zmian. Moratorium energetyczne — nieoperacyjne. Spekulacje o mobilizacji w Rosji — nadal prognoza (październik). **Żadne pojedyncze zdarzenie nie spełnia wyjątku reguły 4 ani progu „≥2 niezależne kategorie" dla POZIOM 2.** **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-21 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian)
