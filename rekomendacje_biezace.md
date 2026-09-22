@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-22 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian)
+- Podstawa: `dziennik/2026-09-22.md` (aktualizacja wieczorna 20:15). Brak zdarzenia jakościowo nowego w sensie twardego wskaźnika operacyjnego wobec Polski/NATO w ostatnich ~12h. Najważniejszy rozwój doby: konferencja MON/MSWiA na przejściu Dorohusk–Jagodzin — minister Kosiniak-Kamysz ocenił, że Rosja „wspina się po szczeblach drabiny eskalacyjnej" wobec państw NATO (ataki hybrydowe na przejścia graniczne UA–MD, UA–RO, PL), ogłosił kontynuację wzmocnień obronnych (umocnienia HESCO, baterie Patriot w lubelskim/mazowieckim, czeskie śmigłowce Mi-171Sz, zapowiedziane słowackie radary — kontynuacja znanego programu wsparcia sojuszniczego, nie nowa decyzja NATO) oraz zadeklarował gotowość Polski do pomocy Litwie w ewakuacji ludności cywilnej w razie ataku Rosji + żądanie uruchomienia Art. 5 w takim scenariuszu — **deklaracja retoryczna/planistyczna, nie decyzja operacyjna ani wniosek formalny**. Kontynuacja rekordowo intensywnej wymiany uderzeń Rosja–Ukraina (w nocy 172 drony na Ukrainę, kolejna fala >200 dronów) — bez elementu wobec terytorium PL. **Priorytetowy test reguły 6 (powrót jednostek białoruskich spoza regionu — 103. Brygada z Witebska i in. — do baz macierzystych) nadal nierozstrzygnięty, siódmy/ósmy dzień z rzędu** — dostęp do kluczowych źródeł (iSANS, defence24, Euromaidan Press) nadal zablokowany w tym środowisku. Kursy NBP stabilne (EUR 4,3463, USD 3,7934). Travel advisory USA (Level 1), ambasador Michno (nadal tylko wezwany) — bez zmian. Brak Art. 4/5 NATO, brak nowego komunikatu CERT Polska, brak nowego incydentu na granicy z Białorusią ani w Litwie/Łotwie/Estonii, brak nowego sygnału jądrowego/PAA, brak sygnałów paniki gospodarczej. Mobilizacja w Rosji — nadal tylko prognoza (OSW: obecne wezwania rezerwistów na szkolenie ≠ mobilizacja). **Żadne pojedyncze zdarzenie nie spełnia wyjątku reguły 4 ani progu „≥2 niezależne kategorie" dla POZIOM 2.** **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-22 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian)
