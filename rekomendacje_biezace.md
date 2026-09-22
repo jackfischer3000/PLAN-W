@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-22 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian)
+- Podstawa: `dziennik/2026-09-22.md` (skan poranny). Brak zdarzenia jakościowo nowego wobec Polski/NATO. Kontynuacja dwóch znanych wątków: (1) kolejny epizod rutynowego wzorca RCB-alert dla Lubelskiego/Podkarpackiego (Rzeszów-Jasionka/Lublin czasowo wstrzymały loty, „siódme wstrzymanie lotów w miesiącu") w związku z rosyjskim atakiem dronowym na zachodnią Ukrainę — **bez naruszenia polskiej przestrzeni powietrznej**; (2) rosnąca intensywność wymiany uderzeń Rosja–Ukraina — w nocy 21/22.09 rekordowy ukraiński atak dronowy na Moskwę (>1000 dronów) — zdarzenie na terytorium Rosji, bez elementu wobec Polski/NATO. **Priorytetowy test reguły 6 (powrót jednostek białoruskich spoza regionu — 103. Brygada z Witebska i in. — do baz macierzystych) nadal nierozstrzygnięty**; dodatkowa niepewność co do statusu źródła „Belaruski Hajun" (jeden wynik wyszukiwania sugeruje zakończenie działalności w lutym 2025 — niepotwierdzone, do wyjaśnienia). Stopnie alarmowe BRAVO/BRAVO-CRP/CHARLIE bez zmian (do 30.11.2026). Kursy NBP stabilne (EUR 4,3545, USD 3,7931 — dane z 21.09). Travel advisory USA (Level 1), ambasador Michno (nadal tylko wezwany) — bez zmian. Rekomendacje BBN po naradzie 18.09 nadal niepublikowane w konkretnej formie. Spekulacje o mobilizacji w Rosji — nadal prognoza (październik), Kreml zaprzecza. Brak Art. 4/5 NATO, brak nowego komunikatu CERT Polska, brak nowego incydentu na granicy z Białorusią, brak nowego sygnału jądrowego/PAA. **Żadne pojedyncze zdarzenie nie spełnia wyjątku reguły 4 ani progu „≥2 niezależne kategorie" dla POZIOM 2.** **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-21 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian)
