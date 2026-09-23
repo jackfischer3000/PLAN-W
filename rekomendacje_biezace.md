@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-23 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **stabilny, na podwyższonym poziomie — z odnotowanym wzmocnieniem tła kategorii A** (bez formalnej zmiany)
+- Podstawa: `dziennik/2026-09-23.md` (aktualizacja wieczorna 20:15). **Najważniejsze zdarzenie doby:** o 11:08 rosyjski wojskowy śmigłowiec Mi-8 (lot z obwodu kaliningradzkiego) naruszył polską przestrzeń powietrzną k. Braniewa na głębokość ok. 300 m przez ok. 42 s — potwierdzone komunikatem Dowództwa Operacyjnego RSZ, poderwano myśliwce. **To pierwsze w tym wątku (od 27.08) faktyczne, potwierdzone naruszenie polskiej przestrzeni powietrznej** — jakościowo różne od dotychczasowej serii alertów RCB bez naruszenia. Ambasador Rosji Michno wezwany do MSZ, nota protestacyjna — standardowa, proporcjonalna reakcja (bezpośrednia konsekwencja tego samego zdarzenia, nie druga niezależna kategoria). Brak potwierdzonego wniosku o Art. 4 NATO w związku z tym zdarzeniem. Zdarzenie nie spełnia progu „≥2 niezależne kategorie + trend 48–72h" ani wyjątku reguły 4 (brak zamknięcia cywilnej przestrzeni powietrznej) — **pozostaje w obserwacji 48–72h (do ok. 25–26.09)** jako częściowe spełnienie jednej z dwóch kategorii wymaganych dla POZIOM 2. Priorytetowy test reguły 6 (powrót jednostek białoruskich spoza regionu do baz macierzystych) nadal nierozstrzygnięty, dziesiąty dzień z rzędu. Kursy NBP stabilne (EUR 4,3463, USD 3,8079). Travel advisory USA (Level 1) — bez zmian. Brak Art. 5, brak mobilizacji w PL, brak nowego komunikatu CERT Polska, brak nowego sygnału jądrowego/PAA, brak sygnałów paniki gospodarczej. **Zmiana POZIOMU: NIE — ale priorytetowe śledzenie incydentu z Braniewa przez najbliższe 48–72h.**
+
 ## Stan na: 2026-09-23 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian)
