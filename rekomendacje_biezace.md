@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-23 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian)
+- Podstawa: `dziennik/2026-09-23.md` (skan poranny). Brak zdarzenia jakościowo nowego wobec Polski/NATO w ostatnich ~12h. Jedyny odnotowany epizod: kolejny (w dobrze znanej serii) nocny alert RCB dla woj. lubelskiego i podkarpackiego w związku z rosyjskim atakiem na zachodnią Ukrainę, odwołany dziś rano ok. 7:45 — **bez naruszenia polskiej przestrzeni powietrznej**. **Priorytetowy test reguły 6 (powrót jednostek białoruskich spoza regionu — 103. Brygada z Witebska i in. — do baz macierzystych po ćwiczeniu Hoża/Brześć/Rożany zakończonym 18.09) nadal nierozstrzygnięty, dziewiąty dzień z rzędu** — dostęp do kluczowych źródeł (iSANS, defence24, Euromaidan Press) nadal zablokowany w tym środowisku. Kursy NBP stabilne (EUR 4,3463, USD 3,7934 — dane z 22.09). Travel advisory USA (Level 1), ambasador Michno (nadal tylko wezwany) — bez zmian. Brak Art. 4/5 NATO, brak nowego komunikatu CERT Polska, brak nowego incydentu na granicy z Białorusią ani w Litwie/Łotwie/Estonii, brak nowego sygnału jądrowego/PAA, brak sygnałów paniki gospodarczej. Mobilizacja w Rosji — nadal tylko prognoza (spodziewana w październiku, po zakończonych 20.09 wyborach do Dumy). **Żadne pojedyncze zdarzenie nie spełnia wyjątku reguły 4 ani progu „≥2 niezależne kategorie" dla POZIOM 2.** **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-22 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **stabilny, na podwyższonym poziomie** (bez zmian)
