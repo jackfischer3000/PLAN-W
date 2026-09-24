@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-24 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **stabilny, na podwyższonym poziomie, z odnotowanym wzmocnieniem tła kategorii A** (bez formalnej zmiany)
+- Podstawa: `dziennik/2026-09-24.md` (skan poranny). Brak zdarzenia jakościowo nowego wobec Polski/NATO w ostatnich ~18h ponad wpis z wczorajszego wieczora. Incydent z Braniewa (rosyjski śmigłowiec Mi-8, naruszenie polskiej przestrzeni powietrznej 23.09 o 11:08, 300 m/42 s) bez kolejnej materializacji — brak nowego naruszenia, **brak potwierdzonego wniosku o Art. 4 NATO** (zweryfikowano: sugestie w wynikach wyszukiwania dotyczą innych, wcześniejszych zdarzeń — dron RU 9/10.09.2025 i rakieta na Lubelszczyźnie 30.07.2026 — odrzucone jako artefakty). Ustalono kontekstowo: dzień przed incydentem ze śmigłowcem polskie myśliwce przechwyciły rosyjski samolot rozpoznawczy Ił-20 ok. 40 km od wybrzeża (23.09) — rutynowy, znany wzorzec, nie nowy wskaźnik. Nowy, nieeskalacyjny element: pierwszy od 2016 r. bezpośredni kontakt szefów MSZ Polski i Białorusi (Sikorski–Ryżenkow, 22.09, margines ZO ONZ) — sygnał odwilży dyplomatycznej, bez wpływu na POZIOM. Kolejny, znany wzorcowo nocny alert RCB dla lubelskiego/podkarpackiego — bez naruszenia polskiej przestrzeni powietrznej. Priorytetowy test reguły 6 (powrót jednostek białoruskich spoza regionu do baz macierzystych) nadal nierozstrzygnięty, jedenasty dzień z rzędu. Kursy NBP stabilne (EUR 4,3588, USD 3,8175 — dane z 23.09). Travel advisory USA — większość źródeł nadal Level 1; jeden odosobniony sygnał OSAC sugerujący Level 3 potraktowany z rezerwą jako możliwy artefakt, do weryfikacji. **Incydent z Braniewa pozostaje w obserwacji do ok. 25–26.09** (okno 48–72h) jako częściowe spełnienie jednej z dwóch kategorii wymaganych dla POZIOM 2. Brak Art. 5, brak mobilizacji w PL, brak nowego komunikatu CERT Polska, brak nowego sygnału jądrowego/PAA, brak sygnałów paniki gospodarczej. **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-23 wieczór
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **stabilny, na podwyższonym poziomie — z odnotowanym wzmocnieniem tła kategorii A** (bez formalnej zmiany)
