@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-24 wieczór
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **stabilny, na podwyższonym poziomie, z odnotowanym wzmocnieniem tła kategorii A** (bez formalnej zmiany)
+- Podstawa: `dziennik/2026-09-24.md` (aktualizacja wieczorna 20:11). Brak zdarzenia jakościowo nowego wobec Polski/NATO w ostatnich ~12h. Doprecyzowano: dziś rano RCB wysłało **drugi, odrębny alert** (ok. 8:00–8:10) dla lubelskiego/podkarpackiego ponad już odnotowany w skanie porannym pierwszy alert (przed 6:00) — lotniska Rzeszów/Lublin czasowo wstrzymane, **potwierdzone: brak naruszenia polskiej przestrzeni powietrznej** w obu przypadkach, wzorzec znany. **Priorytetowa ponowna weryfikacja wątku Art. 4 ws. incydentu z Braniewa** (wywołana sprzecznymi sygnałami w zagranicznych źródłach wtórnych): dogłębna weryfikacja krzyżowa polskich źródeł pierwotnych/wtórnych potwierdza ponownie, że **brak jest konkretnego wniosku o Art. 4 dotyczącego zdarzenia z 23.09** — każdy odnaleziony wniosek o Art. 4 dotyczy odrębnego, wcześniejszego zdarzenia (drony RU, noc 9/10.09.2025). Test reguły 6 (powrót jednostek białoruskich spoza regionu do baz macierzystych) — **nadal nierozstrzygnięty, dwunasty dzień z rzędu**. Łagodne, rynkowe osłabienie złotego (EUR 4,39, USD 3,857 wobec 4,3588/3,8175 wczoraj) — poniżej progu kategorii G, bez paniki. Travel advisory USA **potwierdzone bezpośrednio z travel.state.gov: Level 1**. Brak nowego komunikatu CERT Polska o ataku na infrastrukturę krytyczną, brak nowego incydentu granicznego z Białorusią, brak nowego incydentu bałtycko-kaliningradzkiego, brak nowego sygnału jądrowego/PAA, brak Art. 4/5 NATO (nowe zdarzenie), brak mobilizacji w PL. **Incydent z Braniewa pozostaje w obserwacji do ok. 25–26.09** (okno 48–72h) jako częściowe spełnienie jednej z dwóch kategorii wymaganych dla POZIOM 2. **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-24 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **stabilny, na podwyższonym poziomie, z odnotowanym wzmocnieniem tła kategorii A** (bez formalnej zmiany)
