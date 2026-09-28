@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-28 wieczor
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **stabilny, na podwyższonym poziomie, z odnotowanym wzmocnieniem tła kategorii A i E, oraz dziś dodatkowo A/D** (bez formalnej zmiany POZIOMU)
+- Podstawa: `dziennik/2026-09-28.md` (aktualizacja wieczorna 20:10). **Najważniejszy element doby:** drugi w tym miesiącu incydent dronowy tuż przy przejściu granicznym Dorohusk-Jagodzin (28.09, popołudnie) — rosyjski dron odrzutowy uderzył ok. 2 km od przejścia, **po stronie ukraińskiej**, przejście trzykrotnie wstrzymywane w ciągu dnia i raz ewakuowane, RCB wysłało dla woj. lubelskiego kolejne alerty (odwołane po ok. 30 min) — **potwierdzone: brak naruszenia polskiej przestrzeni powietrznej, przejście Jagodzin nieuszkodzone**. Poprzedni taki incydent w tym miejscu miał miejsce 13.09.2026. **Ocena: powtórzenie znanego wzorca (uderzenie po stronie ukraińskiej, brak naruszenia PL), nie jakościowo nowa kategoria — odnotowane jako wzmocnienie tła kategorii A/D (rosnąca częstotliwość uderzeń blisko granicy PL), bez wpływu na POZIOM.** Test reguły 6 (powrót jednostek białoruskich spoza regionu do baz macierzystych) — **nadal nierozstrzygnięty, dwudziesty drugi dzień z rzędu**, najdłużej otwarty priorytetowy wątek. **Estonia/flanka bałtycka: brak nowych zdarzeń w oknie ~24h** — brak nowych naruszeń przestrzeni powietrznej/morskiej, ograniczenia FSB w obwodzie leningradzkim potwierdzone jako wygasłe 26.09 bez przedłużenia (sygnał deeskalacyjny podtrzymany), brak nowego Art. 4 ws. Estonii/Litwy/Polski (wszystkie trafienia nadal dotyczą rocznicy 19.09.2025). Kombinacja kategorii Polska+Estonia/Bałtyk nadal nie spełnia progu „≥2 niezależne kategorie". Kursy NBP stabilne (EUR 4,3769, USD 3,8478 — minimalny ruch rynkowy względem rana). Travel advisory USA — Level 1, bez zmian. Brak nowego komunikatu CERT Polska, brak nowego sygnału jądrowego/PAA, brak zmiany stopni alarmowych/NOTAM, brak faktycznej decyzji o mobilizacji w Rosji. **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-28 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **stabilny, na podwyższonym poziomie, z odnotowanym wzmocnieniem tła kategorii A i E** (bez formalnej zmiany)
