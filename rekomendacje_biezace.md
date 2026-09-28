@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-28 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **stabilny, na podwyższonym poziomie, z odnotowanym wzmocnieniem tła kategorii A i E** (bez formalnej zmiany)
+- Podstawa: `dziennik/2026-09-28.md` (skan poranny). Brak zdarzenia jakościowo nowego wobec Polski/NATO w oknie nocnym 27/28.09 w dostępnych źródłach (wczesna pora skanu, do potwierdzenia). Test reguły 6 (powrót jednostek białoruskich spoza regionu do baz macierzystych) — **nadal nierozstrzygnięty, dwudziesty pierwszy dzień z rzędu** — najdłużej otwarty priorytetowy wątek. **Nowy, planistyczny element (kategoria B, nie reaktywny):** w ramach litewskich ćwiczeń „Vyčio Skliautas 2026" (25.09–3.10, test systemu mobilizacyjno-ewakuacyjnego Litwy) Polska i Litwa wspólnie przygotowują międzynarodowy plan ewakuacji transgranicznej ludności przez przesmyk suwalski — bezpośrednie rozwinięcie deklaracji min. Kosiniak-Kamysza z 22.09, oceniona jako kontynuacja wcześniej zapowiedzianej współpracy planistycznej, nie nowa reakcja na nowe zagrożenie. **Estonia/flanka bałtycka: brak nowych zdarzeń w oknie ~24–48h** — brak nowych naruszeń przestrzeni powietrznej/morskiej, ograniczenia FSB w obwodzie leningradzkim pozostają wygasłe (26.09) bez potwierdzonego przedłużenia (sygnał deeskalacyjny podtrzymany), brak nowego Art. 4 ws. Estonii/Litwy/Polski (wszystkie trafienia nadal dotyczą rocznicy 19.09.2025). Kombinacja kategorii Polska+Estonia/Bałtyk nadal nie spełnia progu „≥2 niezależne kategorie". Kursy NBP stabilne (EUR ~4,3735, USD ~3,8408). Travel advisory USA — Level 1, bez zmian. Brak nowego komunikatu CERT Polska, brak nowego sygnału jądrowego/PAA, brak zmiany stopni alarmowych/NOTAM, brak faktycznej decyzji o mobilizacji w Rosji (nadal tylko dyskusja/prognoza na październik). **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-27 wieczor
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **stabilny, na podwyższonym poziomie, z odnotowanym wzmocnieniem tła kategorii A i E** (bez formalnej zmiany)
