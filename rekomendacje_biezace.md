@@ -2,6 +2,11 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-09-29 wieczor
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** **stabilny, na podwyższonym poziomie, z utrzymanym wzmocnieniem tła kategorii A/D i E** (bez formalnej zmiany POZIOMU)
+- Podstawa: `dziennik/2026-09-29.md` (aktualizacja wieczorna 20:10). Brak zdarzenia jakościowo nowego względem skanu porannego (~12h) — żadnego nowego, odrębnego incydentu przy granicy, żadnego nowego komunikatu CERT/PAA/NATO. Test reguły 6 (powrót jednostek białoruskich spoza regionu do baz macierzystych) — **nadal nierozstrzygnięty**, bez nowych trafień w oknie wieczornym. **Estonia/flanka bałtycka: brak nowych zdarzeń w oknie wieczornym** — jedyna zmiana to doprecyzowanie metodologiczne: artykuł estonianworld.com o „ponownym teście granicy", niemożliwy do zweryfikowania rano, okazał się dotyczyć odrębnego, starszego incydentu z **18–19 marca 2026** (Su-30 nad Vaindloo, ~1 min, przechwycony przez włoski dyżur NATO) — nie zdarzenia z 19.09.2025 i nie nowego zdarzenia w bieżącym oknie; ocena bez zmian (recykling/stare zdarzenie). Ograniczenia FSB w obwodzie leningradzkim nadal wygasłe bez przedłużenia. Rosyjska mobilizacja jesienna — nadal wyłącznie prognoza wywiadowcza Ukrainy z lipca, Kreml podtrzymuje zaprzeczenie (zerowa wartość wg reguły 2), brak faktycznej decyzji. Kombinacja kategorii Polska+Estonia/Bałtyk nadal nie spełnia progu „≥2 niezależne kategorie". **Zmiana POZIOMU: NIE.**
+
 ## Stan na: 2026-09-29 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** **stabilny, na podwyższonym poziomie, z odnotowanym wzmocnieniem tła kategorii A i E, oraz A/D** (bez formalnej zmiany POZIOMU)
