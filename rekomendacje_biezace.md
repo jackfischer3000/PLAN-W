@@ -2,6 +2,12 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-10-04 wieczor
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** bez zmian co do POZIOMU — stabilny, na podwyższonym poziomie; jedyny nowy element doby to ósmy w serii epizod alertowo-lotniczy (popołudnie 4.10)
+- Podstawa: `dziennik/2026-10-04.md` (aktualizacja wieczorna 20:15). **Najważniejsze elementy doby (uzupełnienie wieczorne):** (1) **ósmy epizod alertowo-lotniczy w serii** — nowy, odrębny alert RCB dla woj. lubelskiego/podkarpackiego, 15:30–16:00, w związku z kolejną rosyjską falą uderzeń na zachodnią Ukrainę; lotniska Lublin/Rzeszów czasowo wstrzymane — **potwierdzone: brak naruszenia polskiej przestrzeni powietrznej**, kontynuacja znanego trendu A/D; (2) test reguły 6 (103. Brygada z Witebska) — **nadal nierozstrzygnięty, 31. dzień z rzędu**; (3) **filtry szumu zweryfikowane i odrzucone:** dron na granicy PL-BY (naprawdę z 21.01.2026), przekroczenie granicy przez rosyjskich strażników na Narwie (naprawdę z 17.12.2025), alerty przestrzeni powietrznej Krāslava/Łotwa (maj/wrzesień 2026) — wszystkie recykling starych zdarzeń. **Estonia/flanka bałtycka: brak nowych zdarzeń operacyjnych** — bez zmian (granice 7:00–19:00, FSB Leningrad nadal wygasłe, brak nowego Art. 4, brak nowej mobilizacji Kaitseliit; Łotwa prowadzi znane, zapowiedziane ćwiczenie „Namejs 2026" do 8.10 — filtr szumu). Brak nowego rozwoju sporu Tomczyk–Nawrocki, ustawy o pełnej gotowości obronnej, noty nuklearnej ws. Kaliningradu. Litwa — drugie czytanie w Sejmie ws. art. 137 nadal zaplanowane na 6.10 (jeszcze się nie odbyło). **Zmiana POZIOMU: NIE.**
+- **Priorytety obserwacji na kolejny skan:** (1) test reguły 6 — 31./32. dzień bez rozstrzygnięcia; (2) czy kontrola gotowości bojowej Białorusi przechodzi w ruch jednostek w stronę granicy PL/LT; (3) drugie czytanie w Sejmie Litwy (6.10) — zbliża się; (4) dalszy rozwój sporu politycznego ws. sabotażystów; (5) losy projektu ustawy o pełnej gotowości obronnej.
+
 ## Stan na: 2026-10-04 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** bez zmian co do POZIOMU — stabilny, na podwyższonym poziomie, z kontynuowanym tłem kategorii A/D (siódmy epizod alertowo-lotniczy w serii, noc 3/4.10) oraz nowym elementem administracyjnym kategorii C/D (przedłużenie kontroli granicznych PL-DE/PL-LT do 30.03.2027, nietypowo długi, 6-miesięczny okres)
