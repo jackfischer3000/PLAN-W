@@ -2,6 +2,12 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-10-06 wieczor
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** bez zmian co do POZIOMU — stabilny, na podwyższonym poziomie; jedyny nowy element doby to potwierdzone drugie czytanie w Sejmie Litwy ws. art. 137 Konstytucji (wynik zgodny z oczekiwaniami, próg przekroczony)
+- Podstawa: `dziennik/2026-10-06.md` (aktualizacja wieczorna 20:10). **Najważniejsze elementy doby (uzupełnienie wieczorne):** (1) **Litwa — drugie z trzech głosowań ws. zniesienia art. 137 Konstytucji (zakaz broni masowego rażenia/obcych baz) odbyło się dziś zgodnie z planem**, wynik 99 za / 13 przeciw / 5 wstrzymujących się (powyżej progu 94/141 wg wielokrotnych źródeł; pewność średnia — część trafień może powielać wynik z 22.09, treść pierwotna niemożliwa do zweryfikowania, nashaniva.com zablokowany przez proxy) — ostateczne, trzecie głosowanie 12.01.2027; kontynuacja znanego, długoterminowego procesu legislacyjnego, kategoria E, **bez wpływu na POZIOM** (proceduralny krok, nie reakcja na nowy incydent); (2) brak nowego, odrębnego epizodu alertowo-lotniczego w oknie dziennym/wieczornym 6.10 ponad epizod nocny 5/6.10 już odnotowany rano; (3) test reguły 6 (103. Brygada z Witebska) — **nadal nierozstrzygnięty, 34. dzień z rzędu**. **Estonia/flanka bałtycka: brak nowych zdarzeń operacyjnych** — bez zmian (FSB Leningrad nadal wygasłe bez przedłużenia, brak nowego Art. 4 — recykling 19.09.2025, brak nowych naruszeń przestrzeni). Brak nowego rozwoju: Kaliningrad/nota nuklearna, spór Tomczyk–Nawrocki, ustawa MON o pełnej gotowości obronnej, CERT Polska, rosyjska mobilizacja (nadal prognoza). **Zmiana POZIOMU: NIE.**
+- **Priorytety obserwacji na kolejny skan:** (1) test reguły 6 — 34./35. dzień bez rozstrzygnięcia; (2) potwierdzenie wyniku głosowania w Sejmie Litwy w źródle pierwotnym (e-seimas.lrs.lt); (3) częstotliwość epizodów alertowo-lotniczych — czy skrócony odstęp 5/6.10 to początek trendu; (4) kontrola gotowości bojowej Białorusi — ruch jednostek w stronę granicy PL/LT; (5) rozwój doniesień o rosyjskiej mobilizacji (~300 tys.).
+
 ## Stan na: 2026-10-06 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** bez zmian co do POZIOMU — stabilny, na podwyższonym poziomie; jedyny nowy element doby to jedenasty w serii epizod alertowo-lotniczy (noc 5/6.10), z nieco skróconym odstępem od epizodu wieczornego 5.10
