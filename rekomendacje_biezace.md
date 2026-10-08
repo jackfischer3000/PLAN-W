@@ -2,6 +2,12 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-10-08 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** bez zmian co do POZIOMU — stabilny, na podwyższonym poziomie; w tym skanie brak jednoznacznie potwierdzonego, nowego zdarzenia operacyjnego wobec Polski/NATO
+- Podstawa: `dziennik/2026-10-08.md` (skan poranny). **Najważniejsze elementy doby:** (1) **brak potwierdzenia nowego epizodu alertowo-lotniczego w nocy 7/8.10** — wyszukiwania nie zwróciły żadnego trafienia z tą datą (możliwe ograniczenie indeksowania wyszukiwarki dla ostatnich godzin, nie potwierdzony brak zdarzenia) — priorytet weryfikacji wieczorem; (2) test reguły 6 (103. Brygada z Witebska) — **nadal nierozstrzygnięty, 37. dzień z rzędu**; próba bezpośredniego dostępu do najnowszego przeglądu hajun.info nieudana (błąd DNS/proxy); (3) **Estonia/flanka bałtycka: zero nowych zdarzeń operacyjnych** — jedyny nowy element to zaplanowane wcześniej ćwiczenie NATO „Steadfast Duel 26" (6–15.10, pierwsze ćwiczenie dowódczo-sztabowe Art. 5 z udziałem wszystkich 32 państw) — planistyczne, nie reaktywne wzmocnienie; FSB Leningrad, Art. 4, Saatse Boot — bez nowego rozwoju względem wcześniejszych wpisów. Brak nowego rozwoju: NOTAM EPR134, CERT Polska, ustawa MON o pełnej gotowości obronnej, potwierdzenie głosowania Sejmu Litwy w źródle pierwotnym (nadal niemożliwe), kursy PLN/travel advisory (brak dostępu do najświeższych danych, ale brak sygnałów paniki w dostępnych wynikach). **Zmiana POZIOMU: NIE.**
+- **Priorytety obserwacji na kolejny skan (wieczorny 8.10):** (1) weryfikacja, czy epizod alertowo-lotniczy wystąpił w nocy 7/8.10; (2) test reguły 6 — 37./38. dzień bez rozstrzygnięcia (ponowna próba dostępu do hajun.info); (3) kontrola gotowości bojowej Białorusi — ruch jednostek w stronę granicy PL/LT; (4) rozwój doniesień o rosyjskiej mobilizacji po wyborach do Dumy; (5) wnioski z ćwiczenia NATO „Steadfast Duel 26" (trwa do 15.10).
+
 ## Stan na: 2026-10-07 wieczor
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** bez zmian co do POZIOMU — stabilny, na podwyższonym poziomie; w oknie wieczornym zero nowych, potwierdzonych zdarzeń wobec Polski/NATO
