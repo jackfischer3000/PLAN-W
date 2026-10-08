@@ -2,6 +2,12 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-10-08 wieczor
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** bez zmian co do POZIOMU — stabilny, na podwyższonym poziomie; w oknie wieczornym zero nowych, potwierdzonych zdarzeń wobec Polski/NATO
+- Podstawa: `dziennik/2026-10-08.md` (aktualizacja wieczorna 20:11). **Najważniejsze elementy doby (uzupełnienie wieczorne):** (1) **epizod alertowo-lotniczy z nocy 7/8.10 — nadal brak potwierdzenia po trzecim skanie**; ocena przechyla się (z ostrożnością, pewność średnia) w stronę „prawdopodobnie nie wystąpił", nie tylko „niezaindeksowany"; (2) test reguły 6 (103. Brygada z Witebska) — **nadal nierozstrzygnięty, 38. dzień z rzędu**; dostęp do hajun.info zablokowany (DNS/proxy) trzeci dzień z rzędu — ograniczenie techniczne środowiska, nie sygnał; (3) **Estonia/flanka bałtycka: zero nowych zdarzeń** — brak nowych naruszeń przestrzeni powietrznej/morskiej, brak nowego Art. 4 (wszystko nadal recykling 19.09.2025), FSB Leningrad potwierdzone jako wygasłe (16–26.09) bez przedłużenia, brak nowych działań granicznych Estonii, brak nowych reakcji Litwy/Łotwy; (4) rosyjska mobilizacja — nadal wyłącznie prognoza (jeden dodatkowy serwis prognostyczny: ~13% szans na nową „nadzwyczajną mobilizację" IX-XI.2026, prawdopodobnie przez mechanizmy omijające to słowo) — zerowa zmiana statusu; (5) kontrola gotowości bojowej Białorusi — brak nowego potwierdzenia ruchu w stronę granicy PL/LT; (6) CERT Polska, Kaliningrad, ISW (8.10), Defence24 (8.10) — brak nowych, zaindeksowanych doniesień w tym oknie. Ocena kombinacji kategorii Estonia+Polska: warunek „≥2 niezależne, nowe kategorie" nadal NIE spełniony. **Zmiana POZIOMU: NIE.**
+- **Priorytety obserwacji na kolejny skan (poranny 9.10):** (1) test reguły 6 — 38./39. dzień bez rozstrzygnięcia, spróbować alternatywnego dostępu do hajun.info; (2) czy wystąpił epizod alertowo-lotniczy w nocy 8/9.10; (3) kontrola gotowości bojowej Białorusi — ruch jednostek w stronę granicy PL/LT; (4) rozwój doniesień o rosyjskiej mobilizacji/poborze rezerwistów; (5) najnowszy raport ISW (8–9.10) — spróbować dostępu przez understandingwar.org.
+
 ## Stan na: 2026-10-08 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** bez zmian co do POZIOMU — stabilny, na podwyższonym poziomie; w tym skanie brak jednoznacznie potwierdzonego, nowego zdarzenia operacyjnego wobec Polski/NATO
