@@ -2,6 +2,12 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-10-09 rano
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** bez zmian co do POZIOMU — stabilny, na podwyższonym poziomie; dziewiąty dzień z rzędu bez zdarzenia jakościowo nowego i jednoznacznie potwierdzonego wobec Polski/NATO/Bałtyku
+- Podstawa: `dziennik/2026-10-09.md` (skan poranny). **Najważniejsze elementy doby:** (1) test reguły 6 (103. Brygada z Witebska) — **nadal nierozstrzygnięty, 39. dzień z rzędu**; dostęp do hajun.info zablokowany (DNS/proxy) **czwarty dzień z rzędu** — ograniczenie techniczne środowiska, nie sygnał; (2) brak potwierdzenia epizodu alertowo-lotniczego w nocy 8/9.10; (3) **Estonia/flanka bałtycka: zero nowych zdarzeń operacyjnych** — brak nowych naruszeń przestrzeni powietrznej/morskiej, brak nowego Art. 4 (nadal recykling 19.09.2025), FSB Leningrad bez przedłużenia, brak nowych działań granicznych Estonii/reakcji Litwy-Łotwy; (4) rosyjska mobilizacja — nadal wyłącznie prognoza (~13% szans wg futuresearch.ai, szacunek ukraiński do 500 tys. niepotwierdzony); (5) kontrola gotowości bojowej Białorusi, CERT Polska, Kaliningrad, ustawa MON — brak nowego rozwoju; status ćwiczenia NATO „Steadfast Duel 26" nie udało się zweryfikować w wyszukiwaniu. Ocena kombinacji kategorii Estonia+Polska: warunek „≥2 niezależne, nowe kategorie" nadal NIE spełniony. **Zmiana POZIOMU: NIE.**
+- **Priorytety obserwacji na kolejny skan (wieczorny 9.10):** (1) test reguły 6 — 39./40. dzień bez rozstrzygnięcia, spróbować alternatywnego dostępu do hajun.info; (2) czy wystąpił epizod alertowo-lotniczy w nocy 8/9.10 lub w dniu 9.10; (3) kontrola gotowości bojowej Białorusi — ruch jednostek w stronę granicy PL/LT; (4) rozwój doniesień o rosyjskiej mobilizacji; (5) status/zakończenie ćwiczenia NATO „Steadfast Duel 26".
+
 ## Stan na: 2026-10-08 wieczor
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** bez zmian co do POZIOMU — stabilny, na podwyższonym poziomie; w oknie wieczornym zero nowych, potwierdzonych zdarzeń wobec Polski/NATO
