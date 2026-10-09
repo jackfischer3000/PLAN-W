@@ -2,6 +2,12 @@
 
 > Rolowany dokument. Aktualizowany po każdym skanie. Zawsze zgodny z bieżącym POZIOMEM z ostatniego wpisu w `dziennik/`.
 
+## Stan na: 2026-10-09 wieczor
+- **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
+- **Trend 7 dni:** bez zmian co do POZIOMU — stabilny, na podwyższonym poziomie; dziesiąty dzień z rzędu bez zdarzenia jakościowo nowego i jednoznacznie potwierdzonego wobec Polski lub flanki bałtyckiej
+- Podstawa: `dziennik/2026-10-09.md` (aktualizacja wieczorna 20:09). **Najważniejsze elementy doby (uzupełnienie wieczorne):** (1) test reguły 6 (103. Brygada z Witebska) — **nadal nierozstrzygnięty, 40. dzień z rzędu**; dostęp do hajun.info nadal ograniczony — traktować jako ograniczenie środowiska, nie sygnał; (2) brak potwierdzenia epizodu alertowo-lotniczego oraz brak nowego incydentu granicznego PL-BY w oknie wieczornym; (3) **Estonia/flanka bałtycka: zero nowych zdarzeń operacyjnych** — brak nowych naruszeń przestrzeni powietrznej/morskiej, brak nowego Art. 4 (nadal recykling 19.09.2025), FSB Leningrad bez przedłużenia, brak nowych działań granicznych Estonii/reakcji Litwy-Łotwy; (4) rosyjska mobilizacja — nadal wyłącznie spekulacja/dyskusja (Meduza/Verstka/iStories: "już w październiku"), Kreml zaprzecza, zerowa wartość dowodowa obu stron; (5) CERT Polska, Kaliningrad (tło: nota nuklearna 30.09 + odpowiedź Peskowa 4.10, bez nowego rozwoju operacyjnego), kontrola gotowości Białorusi, Steadfast Duel 26, ISW — brak nowego rozwoju/brak możliwości weryfikacji w wyszukiwaniu. Ocena kombinacji kategorii Estonia+Polska: warunek „≥2 niezależne, nowe kategorie" nadal NIE spełniony. **Zmiana POZIOMU: NIE.**
+- **Priorytety obserwacji na kolejny skan (poranny 10.10):** (1) test reguły 6 — 40./41. dzień bez rozstrzygnięcia; (2) czy wystąpił epizod alertowo-lotniczy w nocy 9/10.10; (3) kontrola gotowości bojowej Białorusi — ruch jednostek w stronę granicy PL/LT; (4) rozwój doniesień o rosyjskiej mobilizacji — coraz bliżej zapowiadanego "października"; (5) status/zakończenie ćwiczenia NATO „Steadfast Duel 26".
+
 ## Stan na: 2026-10-09 rano
 - **POZIOM: 1** — PODWYŻSZONA UWAGA (bez zmian)
 - **Trend 7 dni:** bez zmian co do POZIOMU — stabilny, na podwyższonym poziomie; dziewiąty dzień z rzędu bez zdarzenia jakościowo nowego i jednoznacznie potwierdzonego wobec Polski/NATO/Bałtyku
